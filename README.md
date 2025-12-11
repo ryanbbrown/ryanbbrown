@@ -14,7 +14,7 @@
 - 🃏 [Web Deckbuilding](https://github.com/ryanbbrown/web-deckbuilding): Sandbox environment for deck-building games with support for live multiplayer
 - 💪 [NextWorkout](https://github.com/ryanbbrown/nextworkout): Progressive web app for workout tracking with a unique UI focusing on exercise consistency
 - 🌐 [global-agent-context](https://github.com/ryanbbrown/global-agent-context): Simple setup to easily manage + version control global coding agent files
-- 🏠 [ryanbbrown.com](https://github.com/ryanbbrown/ryanbbrown.github.io): Personal website using markdown + Hugo and Notion as a CMS
+- 🏠 [ryanbbrown.com](https://github.com/ryanbbrown/ryanbbrown.github.io): Personal website using markdown + Hugo with Notion as a CMS
 
 ## Open-Source Contributions
 - [kindle-api](https://github.com/ryanbbrown/kindle-api): Added functionality for book content download, progress sync, and automatic cookie collection + significant refactor (awaiting PR)
