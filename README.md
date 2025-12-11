@@ -17,8 +17,9 @@
 - 🏠 [ryanbbrown.com](https://github.com/ryanbbrown/ryanbbrown.github.io): Personal website using markdown + Hugo and Notion as a CMS
 
 ## Open-Source Contributions
-- [kindle-api](https://github.com/ryanbbrown/kindle-api): Added functionality for book content download, progress sync, and automatic cookie collection + significant refactor (to be merged)
-- [decktape](https://github.com/ryanbbrown/decktape): (in progress) Allow for single-slide screenshots to speed up AI iteration on HTML presentations
+- [kindle-api](https://github.com/ryanbbrown/kindle-api): Added functionality for book content download, progress sync, and automatic cookie collection + significant refactor (awaiting PR)
+- [y-redis](https://github.com/ryanbbrown/y-redis): *(in progress)* Bug fixes + compatbility and documentation for use with fly.io and Upstash Redis
+- [decktape](https://github.com/ryanbbrown/decktape): *(in progress)* Allow for single-slide screenshots to speed up AI iteration on HTML presentations
 
 ## Latest Blog Posts
 - [Thoughts on the AI bubble](https://blog.ryanbbrown.com/p/thoughts-on-the-ai-bubble)
