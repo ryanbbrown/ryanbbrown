@@ -15,6 +15,7 @@
 - 💪 [NextWorkout](https://github.com/ryanbbrown/nextworkout): Progressive web app for workout tracking with a unique UI focusing on exercise consistency
 - 🌐 [global-agent-context](https://github.com/ryanbbrown/global-agent-context): Simple setup to easily manage + version control global coding agent files
 - 🏠 [ryanbbrown.com](https://github.com/ryanbbrown/ryanbbrown.github.io): Personal website using markdown + Hugo with Notion as a CMS
+- 📑 [Chrome Tab Groups Exporter](https://github.com/ryanbbrown/chrome-tab-groups-exporter): Chrome extension to export and import tab groups as JSON
 
 ## Open-Source Contributions
 - [kindle-api](https://github.com/ryanbbrown/kindle-api): Added functionality for book content download, progress sync, and automatic cookie collection + significant refactor (awaiting PR)
