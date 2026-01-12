@@ -9,12 +9,13 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ## Current Projects
+- 🤖 [obsidian-claude-code](https://github.com/ryanbbrown/obsidian-claude-code): *(in progress)* "Cursor for Obsidian" plugin powered by CLI coding agents
 - 📚 [Kindle Storyteller](https://github.com/ryanbbrown/kindle-storyteller): iOS app for generating on-demand, live-syncing audiobook snippets using AI
 - 🎨 [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill): Claude Code skill for making Reveal.js presentations
 - 🃏 [Web Deckbuilding](https://github.com/ryanbbrown/web-deckbuilding): Sandbox environment for deck-building games with support for live multiplayer
 - 💪 [NextWorkout](https://github.com/ryanbbrown/nextworkout): Progressive web app for workout tracking with a unique UI focusing on exercise consistency
 - 🌐 [global-agent-context](https://github.com/ryanbbrown/global-agent-context): Simple setup to easily manage + version control global coding agent files
-- 🏠 [ryanbbrown.com](https://github.com/ryanbbrown/ryanbbrown.github.io): Personal website using markdown + Hugo with Notion as a CMS
+- 🏠 [ryanbbrown.com](https://github.com/ryanbbrown/ryanbbrown.github.io): Personal website using markdown + Hugo
 - 📑 [Chrome Tab Groups Exporter](https://github.com/ryanbbrown/chrome-tab-groups-exporter): Chrome extension to export and import tab groups as JSON
 
 ## Open-Source Contributions
@@ -24,6 +25,7 @@
 
 ## Latest Blog Posts
 - [Thoughts on the AI bubble](https://blog.ryanbbrown.com/p/thoughts-on-the-ai-bubble)
+- [AI will never master PowerPoint](https://blog.ryanbbrown.com/p/ai-will-never-master-powerpoint)
 
 
 <!--
