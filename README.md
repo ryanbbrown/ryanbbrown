@@ -15,6 +15,7 @@
 - 🃏 [Web Deckbuilding](https://github.com/ryanbbrown/web-deckbuilding): Sandbox environment for deck-building games with support for live multiplayer
 - 🪟 [LLM Overlay](https://github.com/ryanbbrown/llm-overlay): Always-on-top mini window for Claude, Gemini, and Perplexity on macOS
 - 📸 [stylegen](https://github.com/ryanbbrown/stylegen): CLI for generating images with Gemini, supporting style references and parallel batch generation
+- 💪 [LastLift](https://github.com/ryanbbrown/lastlift): Native iOS workout tracking app focused on exercise consistency, built with SwiftUI and SwiftData
 - 💪 [NextWorkout](https://github.com/ryanbbrown/nextworkout): Progressive web app for workout tracking with a unique UI focusing on exercise consistency
 - 🌐 [global-agent-context](https://github.com/ryanbbrown/global-agent-context): Simple setup to easily manage + version control global coding agent files
 - 🏠 [ryanbbrown.com](https://github.com/ryanbbrown/ryanbbrown.github.io): Personal website using markdown + Hugo
