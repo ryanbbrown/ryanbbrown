@@ -9,7 +9,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ## Current Projects
-- 🤖 [obsidian-drift](https://github.com/ryanbbrown/obsidian-drift): *(in progress)* Native version control + accumulated IDE-like diff view for Obsidian
+- 🤖 [obsidian-drift](https://github.com/ryanbbrown/obsidian-drift): Native version control + accumulated IDE-like diff view for Obsidian
 - 📚 [Kindle Storyteller](https://github.com/ryanbbrown/kindle-storyteller): iOS app for generating on-demand, live-syncing audiobook snippets using AI
 - 🎨 [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill): Claude Code skill for making Reveal.js presentations
 - 🃏 [Web Deckbuilding](https://github.com/ryanbbrown/web-deckbuilding): Sandbox environment for deck-building games with support for live multiplayer
