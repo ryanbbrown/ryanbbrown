@@ -18,6 +18,7 @@
 - 💪 [LastLift](https://github.com/ryanbbrown/lastlift): iOS app for tracking workout consistency across exercise groups, built with SwiftUI and SwiftData
 - 🌐 [global-agent-context](https://github.com/ryanbbrown/global-agent-context): Simple setup to easily manage + version control global coding agent files
 - 🏠 [ryanbbrown.com](https://github.com/ryanbbrown/ryanbbrown.github.io): Personal website using markdown + Hugo
+- 📬 [reader-notify](https://github.com/ryanbbrown/readwise-reader-feed-notifications): Cloudflare Worker that sends Pushover notifications for new Readwise Reader feed docs
 - 📑 [Chrome Tab Groups Exporter](https://github.com/ryanbbrown/chrome-tab-groups-exporter): Chrome extension to export and import tab groups as JSON
 
 ## Latest Blog Posts
