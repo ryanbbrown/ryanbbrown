@@ -25,6 +25,7 @@
 - [Thoughts on the AI bubble](https://blog.ryanbbrown.com/p/thoughts-on-the-ai-bubble)
 - [AI will never master PowerPoint](https://blog.ryanbbrown.com/p/ai-will-never-master-powerpoint)
 - [I reverse-engineered Kindle to build on-demand AI audiobooks](https://blog.ryanbbrown.com/p/i-reverse-engineered-kindle-to-build)
+- [An LLM wiki won't  change your life](https://blog.ryanbbrown.com/p/an-llm-wiki-wont-change-your-life)
 
 
 <!--
