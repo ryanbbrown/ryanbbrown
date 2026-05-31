@@ -10,15 +10,14 @@
 
 ## Current Projects
 - 🔗 [ThinHarness](https://github.com/ryanbbrown/thinharness): A minimal, opinionated agent harness — focused scope, readable core, easy to fork
-- 📝 [obsidian-drift](https://github.com/ryanbbrown/obsidian-drift): Native version control + accumulated IDE-like diff view for Obsidian
+- 📝 [obsidian-drift](https://github.com/ryanbbrown/obsidian-drift): Native version control + accumulated IDE-like diff view for Obsidian (500+ downloads)
+- 🚪 [AI Gate](https://github.com/inulute/ai-gate): Contributor to an Electron app for using ChatGPT, Claude, and Gemini in parallel, tmux-style workspaces
 - 📚 [Kindle Storyteller](https://github.com/ryanbbrown/kindle-storyteller): iOS app for generating on-demand, live-syncing audiobook snippets using AI
-- 🎨 [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill): Claude Code skill for making Reveal.js presentations
+- 🎨 [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill): Coding agent skill for making Reveal.js presentations
 - 🃏 [Web Deckbuilding](https://github.com/ryanbbrown/web-deckbuilding): Sandbox environment for deck-building games with support for live multiplayer
 - 🪟 [LLM Overlay](https://github.com/ryanbbrown/llm-overlay): Always-on-top mini window for Claude, Gemini, and Perplexity on macOS
 - 📸 [stylegen](https://github.com/ryanbbrown/stylegen): CLI for generating images with Gemini, supporting style references and parallel batch generation
 - 💪 [LastLift](https://github.com/ryanbbrown/lastlift): iOS app for tracking workout consistency across exercise groups, built with SwiftUI and SwiftData
-- 🌐 [global-agent-context](https://github.com/ryanbbrown/global-agent-context): Simple setup to easily manage + version control global coding agent files
-- 🏠 [ryanbbrown.com](https://github.com/ryanbbrown/ryanbbrown.github.io): Personal website using markdown + Hugo
 - 📬 [reader-notify](https://github.com/ryanbbrown/readwise-reader-feed-notifications): Cloudflare Worker that sends Pushover notifications for new Readwise Reader feed docs
 - 📑 [Chrome Tab Groups Exporter](https://github.com/ryanbbrown/chrome-tab-groups-exporter): Chrome extension to export and import tab groups as JSON
 
@@ -26,8 +25,14 @@
 - [Thoughts on the AI bubble](https://blog.ryanbbrown.com/p/thoughts-on-the-ai-bubble)
 - [AI will never master PowerPoint](https://blog.ryanbbrown.com/p/ai-will-never-master-powerpoint)
 - [I reverse-engineered Kindle to build on-demand AI audiobooks](https://blog.ryanbbrown.com/p/i-reverse-engineered-kindle-to-build)
-- [An LLM wiki won't  change your life](https://blog.ryanbbrown.com/p/an-llm-wiki-wont-change-your-life)
+- [An LLM wiki won't change your life](https://blog.ryanbbrown.com/p/an-llm-wiki-wont-change-your-life)
 
+## Other
+- My [coding agent workflow](https://github.com/ryanbbrown/global-agent-context) is public and git-tracked. TLDR:
+  - My own [multi-review](https://github.com/ryanbbrown/global-agent-context/tree/main/plugins/personal/skills/multi-review) skill has Codex, Claude Code, and Factory Droid/DeepSeek review plans or implementations in parallel, then saves their feedback back into the repo.
+  - I also use my [interview](https://github.com/ryanbbrown/global-agent-context/tree/main/plugins/personal/skills/interview) skill to shape plans/specs, the [HTML artifact skills from f-labs-io](https://github.com/f-labs-io/agent-html-skills) for visual explanation, and Matt Pocock's [architecture skill](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) for refactoring and simplification.
+- I maintain a living set of things I believe in [OPINIONS.md](OPINIONS.md), inspired by [Kun Chen's post](https://blog.kunchenguid.com/p/everyone-should-have-an-opinionsmd).
+- [ryanbbrown.com](https://ryanbbrown.com) is my personal hub, including a full list of [tools I use](https://ryanbbrown.com/tools/) and a tracked [book list](https://ryanbbrown.com/books/).
 
 <!--
 **ryanbbrown/ryanbbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
