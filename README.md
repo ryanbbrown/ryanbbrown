@@ -30,6 +30,7 @@
 ## Other
 - My [coding agent workflow](https://github.com/ryanbbrown/global-agent-context) is public and git-tracked. TLDR:
   - My own [multi-review](https://github.com/ryanbbrown/global-agent-context/tree/main/plugins/personal/skills/multi-review) skill has Codex, Claude Code, and Factory Droid/DeepSeek review plans or implementations in parallel, then saves their feedback back into the repo.
+  - New repos start with shared `CLAUDE.md`/`AGENTS.md` instructions, local `learnings.jsonl` memory for durable agent mistakes and project quirks, and a promotion loop where only reviewed learnings graduate into the project instructions.
   - I also use my [interview](https://github.com/ryanbbrown/global-agent-context/tree/main/plugins/personal/skills/interview) skill to shape plans/specs, the [HTML artifact skills from f-labs-io](https://github.com/f-labs-io/agent-html-skills) for visual explanation, and Matt Pocock's [architecture skill](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) for refactoring and simplification.
 - I maintain a living set of things I believe in [OPINIONS.md](OPINIONS.md), inspired by [Kun Chen's post](https://blog.kunchenguid.com/p/everyone-should-have-an-opinionsmd).
 - [ryanbbrown.com](https://ryanbbrown.com) is my personal hub, including a full list of [tools I use](https://ryanbbrown.com/tools/) and a tracked [book list](https://ryanbbrown.com/books/).
