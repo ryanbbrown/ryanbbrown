@@ -14,3 +14,7 @@
 ## Readwise Summary d922de56-6df3-444e-ab47-9954821e83d8
 
 - End-to-end “vertical slice” reminder: run using the real model, send real Telegram messages, and only commit the summary to TEST_OPINIONS.md after explicit approval.
+
+## Readwise Summary f8873591-1476-4fab-b469-f0793f1fe893
+
+- “Full vertical slice” E2E guidance: run using the real model, send real Telegram messages, and only commit the summary to TEST_OPINIONS.md after explicit approval.
