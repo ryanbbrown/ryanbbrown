@@ -10,6 +10,7 @@
 
 ## Current Projects
 - 🔗 [ThinHarness](https://github.com/ryanbbrown/thinharness): A minimal, opinionated agent harness — focused scope, readable core, easy to fork
+- 🧠 [OPINIONS.md Agent](https://github.com/ryanbbrown/opinions-agent): Agent that evolves my living beliefs file from my weekly reading highlights
 - 📝 [obsidian-drift](https://github.com/ryanbbrown/obsidian-drift): Native version control + accumulated IDE-like diff view for Obsidian (500+ downloads)
 - 🚪 [AI Gate](https://github.com/inulute/ai-gate): Contributor to an Electron app for using ChatGPT, Claude, and Gemini in parallel, tmux-style workspaces
 - 📚 [Kindle Storyteller](https://github.com/ryanbbrown/kindle-storyteller): iOS app for generating on-demand, live-syncing audiobook snippets using AI
@@ -35,7 +36,7 @@
   - New repos start with shared `CLAUDE.md`/`AGENTS.md` instructions, optional `docs/behavior.md`, local `learnings.jsonl` memory, and a promotion loop where only reviewed learnings graduate into project instructions.
   - I use my [interview](https://github.com/ryanbbrown/global-agent-context/tree/main/plugins/personal/skills/interview) skill before planning when my preferences need to be surfaced, HTML/diagram artifacts when visual explanation beats prose, and Matt Pocock's [architecture skill](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) for refactoring and simplification.
 - I maintain a living set of things I believe in [OPINIONS.md](OPINIONS.md), inspired by [Kun Chen's post](https://blog.kunchenguid.com/p/everyone-should-have-an-opinionsmd).
-- [ryanbbrown.com](https://ryanbbrown.com) is my personal hub, including a full list of [tools I use](https://ryanbbrown.com/tools/) and a tracked [book list](https://ryanbbrown.com/books/).
+- [ryanbbrown.com](https://ryanbbrown.com) is my personal hub, including a [board game log](https://ryanbbrown.com/gamelog/) and a tracked [book list](https://ryanbbrown.com/books/).
 
 <!--
 **ryanbbrown/ryanbbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
