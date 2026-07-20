@@ -9,7 +9,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ## Current Projects
-- 🏆 [Retrodict](https://github.com/ryanbbrown/Retrodict): Highest-scoring ARC-AGI-3 agent — 99.86% RHAE, all 25 games solved, 5.5x fewer tokens than the previous best
+- 🏆 [Retrodict](https://github.com/ryanbbrown/Retrodict): Highest-scoring ARC-AGI-3 agent — 99.86% RHAE, all 25 games solved, 5.5x fewer tokens
 - 🔗 [ThinHarness](https://github.com/ryanbbrown/thinharness): A minimal, opinionated agent harness — focused scope, readable core, easy to fork
 - 🧠 [OPINIONS.md Agent](https://github.com/ryanbbrown/opinions-agent): Agent that evolves my living beliefs file from my weekly reading highlights
 - 📝 [obsidian-drift](https://github.com/ryanbbrown/obsidian-drift): Native version control + accumulated IDE-like diff view for Obsidian (500+ downloads)
