@@ -12,10 +12,10 @@
 - 🏆 [Retrodict](https://github.com/ryanbbrown/Retrodict): Highest-scoring ARC-AGI-3 agent — 99.86% RHAE, all 25 games solved, 5.5x fewer tokens
 - 🔗 [ThinHarness](https://github.com/ryanbbrown/thinharness): A minimal, opinionated agent harness — focused scope, readable core, easy to fork
 - 🧠 [OPINIONS.md Agent](https://github.com/ryanbbrown/opinions-agent): Agent that evolves my living beliefs file from my weekly reading highlights
-- 📝 [obsidian-drift](https://github.com/ryanbbrown/obsidian-drift): Native version control + accumulated IDE-like diff view for Obsidian (500+ downloads)
+- 📝 [obsidian-drift](https://github.com/ryanbbrown/obsidian-drift): Native version control + accumulated IDE-like diff view for Obsidian (750+ downloads)
 - 🚪 [AI Gate](https://github.com/inulute/ai-gate): Contributor to an Electron app for using ChatGPT, Claude, and Gemini in parallel, tmux-style workspaces
 - 📚 [Kindle Storyteller](https://github.com/ryanbbrown/kindle-storyteller): iOS app for generating on-demand, live-syncing audiobook snippets using AI
-- 🎨 [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill): Coding agent skill for making Reveal.js presentations
+- 🎨 [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill): Coding agent skill for making Reveal.js presentations (300+ stars)
 - 🃏 [Web Deckbuilding](https://github.com/ryanbbrown/web-deckbuilding): Sandbox environment for deck-building games with support for live multiplayer
 - 🪟 [LLM Overlay](https://github.com/ryanbbrown/llm-overlay): Always-on-top mini window for Claude, Gemini, and Perplexity on macOS
 - 📸 [stylegen](https://github.com/ryanbbrown/stylegen): CLI for generating images with Gemini, supporting style references and parallel batch generation
