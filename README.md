@@ -39,19 +39,31 @@
 
 ## Coding
 
-**Setup**
-- Pi with gpt-5.6-sol on high is my daily driver, although I also use Claude Code with Fable 5 when sub capacity permits; full configuration and skills in my [dotfiles repo](https://github.com/ryanbbrown/global-agent-context).
+<details>
+<summary>Setup</summary>
+
+- Pi with gpt-5.6-sol on high is my daily driver, although I also use Claude Code with Fable 5 when sub capacity permits; full configuration and skills in my [dotfiles repo](https://github.com/ryanbbrown/dotfiles).
 - I use [cmux](https://github.com/manaflow-ai/cmux) to organize many coding agent sessions; 1-2 workspaces per project, 2-4 coding agent tabs per workspace.
 - The [first 3–10k lines of a greenfield project should usually be built while paired with a coding agent](https://blog.sshh.io/p/designing-software-for-software-factories#:~:text=If%20you%20are%20just%20starting%20a%20project%20(greenfield)%2C%20I%E2%80%99d%20build%20the%20first%203%2D10k%20LoC%20pairing%20with%20a%20coding%20agent%20and%20same%20with%20the%20first%20few%20E2E%20features); most of my side projects live in that phase and don't have a consistent stream of user feedback, so my setup is optimized for parallel in-the-loop work.
 
-**Agent Workflow**
+</details>
+
+<details>
+<summary>Agent Workflow</summary>
+
 - First step is always to plan; the document is working context for the agent, not something I review line by line. I confirm the intended behavior, ask the agent to surface decisions it is uncertain about, and use HTML artifacts to understand when it's broad/complex.
 - Once the plan is ready, the main agent delegates the work to a implementation subagent, runs my [review-panel](https://github.com/ryanbbrown/global-agent-context/tree/main/skills/review-panel) skill + script to get independent feedback from Codex / Claude Code / GLM, and sends synthesized fixes back to the same subagent.
 
-**Agent Tools**
+</details>
+
+<details>
+<summary>Agent Tools</summary>
+
 - Matt Pocock's [improve-codebase-architecture](https://github.com/mattpocock/skills/tree/main/skills/engineering/improve-codebase-architecture) skill to refactor and improve my codebases.
 - [Exa](https://exa.ai/) for web search, [Context7](https://github.com/upstash/context7) MCP for current technical documentation, and [grep.app](https://grep.app/) MCP for real code examples from public GitHub repositories.
 - `papercut` is a small bash CLI that lets agents log workflow friction to a shared file; I review the list periodically and fix recurring problems (inspired by [this tweet](https://x.com/steveruizok/status/2075303919664734295) from Steve Ruiz).
+
+</details>
 
 ## Other
 - I maintain a living set of things I believe in [OPINIONS.md](OPINIONS.md), inspired by [Kun Chen's post](https://blog.kunchenguid.com/p/everyone-should-have-an-opinionsmd).
