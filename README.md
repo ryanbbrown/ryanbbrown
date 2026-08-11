@@ -43,7 +43,7 @@
 <summary>Setup</summary>
 
 - Pi with gpt-5.6-sol on high is my daily driver, although I also use Claude Code with Fable 5 when sub capacity permits; full configuration and skills in my [dotfiles repo](https://github.com/ryanbbrown/dotfiles).
-- I use [cmux](https://github.com/manaflow-ai/cmux) to organize many coding agent sessions; 1-2 workspaces per project, 2-4 coding agent tabs per workspace.
+- I use bb to keep many projects open at once, with a few terminals per project. I also use bb's built-in Markdown editor for plans, documentation, and website content.
 - The [first 3–10k lines of a greenfield project should usually be built while paired with a coding agent](https://blog.sshh.io/p/designing-software-for-software-factories#:~:text=If%20you%20are%20just%20starting%20a%20project%20(greenfield)%2C%20I%E2%80%99d%20build%20the%20first%203%2D10k%20LoC%20pairing%20with%20a%20coding%20agent%20and%20same%20with%20the%20first%20few%20E2E%20features); most of my side projects live in that phase and don't have a consistent stream of user feedback, so my setup is optimized for parallel in-the-loop work.
 
 </details>
