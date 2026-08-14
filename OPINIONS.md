@@ -74,6 +74,10 @@
   <!-- opinion-id: opinion-000049 -->
   <!-- sources: rw:01kts5rs2pw3jm9emexfz68dv8 -->
 
+- Hand-tuned natural-language prompts become technical debt in production AI systems: each edge-case fix increases brittleness, slows iteration, and deepens model lock-in. Durable behavior should instead be defined by evals, metrics, and typed specifications, with prompts searched or generated against those measurements rather than treated as hand-crafted source code.
+  <!-- opinion-id: opinion-000053 -->
+  <!-- sources: reader-summary:01kw82hq01wyqj4pvtteyvwepy -->
+
 ## AI Leverage And Organizations
 
 - Top builders and high-agency operators gain disproportionately more from AI than median users because they are better at choosing tasks, directing agents, and judging results.
@@ -140,17 +144,21 @@
 
 - Anything you can put on a leaderboard you can train against, so anything measurable is already on its way to commodity; durable value moves toward complex, private work that cannot be easily measured or copied.
   <!-- opinion-id: opinion-000050 -->
-  <!-- sources: rw:01ktzm222bgxfw5cfbpdapyaet -->
+  <!-- sources: rw:01ktzm222bgxfw5cfbpdapyaet, rw:01kvpbkw1cdcwhbb15jakh3ae8, rw:01kvpbn4zp1z1vt0ea3rsh17ts -->
 
 - Distribution-market fit comes before product-market fit: founders should know where customers spend time, whom they trust, and how they discover products, then build a distribution engine around those channels. A product cannot earn market love if the market never sees it.
   <!-- opinion-id: opinion-000051 -->
   <!-- sources: rw:01kvp4f50jt3eh3xmhgfr9sa3f -->
 
+- A competitive model layer protects the application layer: customers want supplier diversity, labs want broad market share, and a better frontier model cannot cheaply reproduce an application's distribution, user habits, or deep workflow integration.
+  <!-- opinion-id: opinion-000052 -->
+  <!-- sources: rw:01kvpbszpjknaq87ptkvgzjzdp -->
+
 ## Taste, Craft, And Signal
 
-- Taste matters more when implementation gets cheaper, because the constraint shifts from "can this be built?" to "is this coherent, polished, and worth caring about?"
+- Taste matters more when implementation gets cheaper, because AI makes features easy to add while excessive feature accumulation can reduce quality; the constraint shifts from "can this be built?" to "is this coherent, polished, and worth caring about?" Quality is often subtractive: simplicity requires understanding the product and user deeply enough to know what to remove, leave alone, or not build at all.
   <!-- opinion-id: opinion-000016 -->
-  <!-- sources: rw:01kkt3bjqsny5edfmcbeertgxn, rw:01km6d48j613hq0c9n141x2d8s, rw:01km6d525k20c4d0wd7cnbys5e, rw:01knczdnkbndmvcm7v6qfcxyhp -->
+  <!-- sources: rw:01kkt3bjqsny5edfmcbeertgxn, rw:01km6d48j613hq0c9n141x2d8s, rw:01km6d525k20c4d0wd7cnbys5e, rw:01knczdnkbndmvcm7v6qfcxyhp, reader-summary:01kw82jrbzr6qmpn06em2e28pw -->
 
 - Cheap "pretty good" AI output can crowd out deeper work by flooding the channel with plausible substitutes before anyone pays the cost to make the stronger version.
   <!-- opinion-id: opinion-000017 -->
