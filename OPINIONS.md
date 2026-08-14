@@ -6,9 +6,9 @@
   <!-- opinion-id: opinion-000001 -->
   <!-- sources: rw:01kkt3rryx42n2vw3vswnzn23c, rw:01kkt4ee5w23y80yqwmy77xpr0, rw:01kkvnzbr8p6g2vtr1wnxdf5g0 -->
 
-- Making code cheap to generate does not make ownership or system comprehension cheap to skip; people should understand AI-generated artifacts well enough to defend them under questioning.
+- Making artifacts cheap to generate does not make ownership or comprehension cheap to skip: authors should verify, compress, and understand AI-generated work well enough to defend it, because handing an unedited output to multiple reviewers transfers the saved time downstream and can slow the organization.
   <!-- opinion-id: opinion-000002 -->
-  <!-- sources: rw:01km6w5j2etpssfcbyjk75spx5, rw:01km6w6qb90sfan8c6dnfgrsx3, rw:01kt7p7hczwhjqkstr4zeqhpzx, rw:01kt7p7s76qx5c04gzkw0mn0tz -->
+  <!-- sources: rw:01km6w5j2etpssfcbyjk75spx5, rw:01km6w6qb90sfan8c6dnfgrsx3, rw:01kt7p7hczwhjqkstr4zeqhpzx, rw:01kt7p7s76qx5c04gzkw0mn0tz, reader-summary:01kvehk4xt999exskypaf1a59y -->
 
 - The human-owned artifact in agentic software should increasingly be the spec, acceptance criteria, and verification contract.
   <!-- opinion-id: opinion-000003 -->
@@ -60,7 +60,7 @@
 
 - Agentic throughput is capped by human review bandwidth, not by how many workers the UI can spawn; the right amount of parallelism is the work you can actually evaluate without surrendering standards.
   <!-- opinion-id: opinion-000045 -->
-  <!-- sources: rw:01kt868v6vctcfvazfy805hpmn, rw:01kt86bmyk96v9fbg4z9g1a945 -->
+  <!-- sources: rw:01kt868v6vctcfvazfy805hpmn, rw:01kt86bmyk96v9fbg4z9g1a945, reader-summary:01kvehk4xt999exskypaf1a59y -->
 
 - A good vertical agent is a faithful compression of its task distribution: common capabilities belong in fast, always-loaded prompt context, rarer capabilities belong in discoverable tiers, and complete underlying references should remain searchable for the rare cases the curated layers do not cover.
   <!-- opinion-id: opinion-000047 -->
@@ -141,6 +141,10 @@
 - Anything you can put on a leaderboard you can train against, so anything measurable is already on its way to commodity; durable value moves toward complex, private work that cannot be easily measured or copied.
   <!-- opinion-id: opinion-000050 -->
   <!-- sources: rw:01ktzm222bgxfw5cfbpdapyaet -->
+
+- Distribution-market fit comes before product-market fit: founders should know where customers spend time, whom they trust, and how they discover products, then build a distribution engine around those channels. A product cannot earn market love if the market never sees it.
+  <!-- opinion-id: opinion-000051 -->
+  <!-- sources: rw:01kvp4f50jt3eh3xmhgfr9sa3f -->
 
 ## Taste, Craft, And Signal
 
