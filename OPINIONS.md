@@ -78,6 +78,10 @@
   <!-- opinion-id: opinion-000053 -->
   <!-- sources: reader-summary:01kw82hq01wyqj4pvtteyvwepy -->
 
+- For long-lived code I care about, hands-off agent loops are not worth surrendering comprehension or design quality: present models compound local defensive fixes and fallbacks instead of enforcing strong invariants and making bad states impossible; they also duplicate code, invent weak abstractions, and cover unclear design with more machinery, leaving code more complex while only appearing more robust.
+  <!-- opinion-id: opinion-000055 -->
+  <!-- sources: rw:01kwakxpb46n3ypb93saym2cgt, rw:01kwam66dc9x2bx4wkk6samcj0 -->
+
 ## AI Leverage And Organizations
 
 - Top builders and high-agency operators gain disproportionately more from AI than median users because they are better at choosing tasks, directing agents, and judging results.
@@ -154,6 +158,10 @@
   <!-- opinion-id: opinion-000052 -->
   <!-- sources: rw:01kvpbszpjknaq87ptkvgzjzdp -->
 
+- An agent product's interface should follow where its value and users live: build a dedicated core agent when users already live in your system of record or specialized domain reasoning justifies a vertical interface; when value lies in data or actions, power the horizontal agents where users already work through a headless API or MCP. Many products should do both, serving core users with an embedded agent and everyone else with the headless layer.
+  <!-- opinion-id: opinion-000057 -->
+  <!-- sources: reader-summary:01kwdzn0vfvbxpx25r0bwewy8c -->
+
 ## Taste, Craft, And Signal
 
 - Taste matters more when implementation gets cheaper, because AI makes features easy to add while excessive feature accumulation can reduce quality; the constraint shifts from "can this be built?" to "is this coherent, polished, and worth caring about?" Quality is often subtractive: simplicity requires understanding the product and user deeply enough to know what to remove, leave alone, or not build at all.
@@ -183,6 +191,10 @@
 - Use agents to remove routine work that does not benefit from synchronous involvement, but stay deliberately in the loop where taste develops and original work needs you shaping it rather than just approving it.
   <!-- opinion-id: opinion-000046 -->
   <!-- sources: rw:01ktd4kw43j7714py2smmacmpt -->
+
+- Taste is hard to create but valuable not because its outputs cannot be copied—they often can be copied almost immediately—but because it sets the standard others choose to copy: where objective metrics run out, consistently good qualitative judgment creates the reference point.
+  <!-- opinion-id: opinion-000056 -->
+  <!-- sources: rw:01kwawx9zm3s9wwzsh2htnkfme, rw:01kwawy67m3t1xcn3w939b28rr, rw:01kwawydzcs652tn0p9na08qbg -->
 
 ## Career And Work
 
@@ -221,3 +233,11 @@
 - High agency needs recovery and self-context, not endless escalation; because there is no final level, ambitious people should deliberately look back, accept their current state, and take breaks.
   <!-- opinion-id: opinion-000044 -->
   <!-- sources: rw:01ksjznkpkmd1p430mjrnt1dfa, rw:01kskp6r68fqp6eewx9v87pt8f, rw:01kskp7frjqgykp69s4ja2g51q -->
+
+- As AI collapses the premium on routine implementation, software-engineering career leverage shifts toward mastering one hard production domain exceptionally well and developing real systems intuition about reliability, scale, security, performance, observability, and operational trade-offs.
+  <!-- opinion-id: opinion-000054 -->
+  <!-- sources: rw:01kwagqq4fmgg5ymmgwav25g79 -->
+
+- In any fast-moving field, assume the latest information has not been written down yet; conversations with practitioners are therefore part of staying current, not merely networking.
+  <!-- opinion-id: opinion-000058 -->
+  <!-- sources: rw:01kwqmk418pzfvhs5wajx45n44 -->
