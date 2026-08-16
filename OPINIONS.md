@@ -162,6 +162,14 @@
   <!-- opinion-id: opinion-000057 -->
   <!-- sources: reader-summary:01kwdzn0vfvbxpx25r0bwewy8c -->
 
+- As software becomes easier to build, real, durable value requires extreme focus on truly ambitious problems rather than simple systems that anyone can create.
+  <!-- opinion-id: opinion-000060 -->
+  <!-- sources: rw:01kx8m8vnmn0ez2e8fb1xjwdj4 -->
+
+- Early go-to-market should be run manually as a learning loop before it is automated: move through a testable thesis, prospecting, messaging, outreach, follow-ups, and a retro; maximize customer conversations; record the problem in customers' own words; and sharpen the ICP and positioning when repeated patterns emerge. Automate only after the message has proof, because premature scale hides the learning that makes the eventual sales machine work.
+  <!-- opinion-id: opinion-000063 -->
+  <!-- sources: reader-summary:01kxby2peknrqvm8v9j2qd3mmy -->
+
 ## Taste, Craft, And Signal
 
 - Taste matters more when implementation gets cheaper, because AI makes features easy to add while excessive feature accumulation can reduce quality; the constraint shifts from "can this be built?" to "is this coherent, polished, and worth caring about?" Quality is often subtractive: simplicity requires understanding the product and user deeply enough to know what to remove, leave alone, or not build at all.
@@ -241,3 +249,17 @@
 - In any fast-moving field, assume the latest information has not been written down yet; conversations with practitioners are therefore part of staying current, not merely networking.
   <!-- opinion-id: opinion-000058 -->
   <!-- sources: rw:01kwqmk418pzfvhs5wajx45n44 -->
+
+- Early in a career, a high rejection rate can be evidence that you are aiming ambitiously enough. Deliberately applying beyond your expected reach builds the skill of absorbing “no” without surprise or dejection, so rejection stops narrowing the opportunities you pursue.
+  <!-- opinion-id: opinion-000061 -->
+  <!-- sources: rw:01kx9zx45d7vwgw0cc30m1hqz7 -->
+
+- Luck is partly cultivated: because relevance is a weak proxy for whether a conversation will be useful, cast a wider social net and favor curious, enthusiastic people with broad interests. Repeated exploratory conversations can compound into the dense interpersonal networks that later look accidental.
+  <!-- opinion-id: opinion-000062 -->
+  <!-- sources: rw:01kx9zzyq4ye8m0psr5z7w0rjy, rw:01kxa0ejry5qqyyvvpjq0mn1sk -->
+
+## Life And Community
+
+- Meaning, aliveness, connection, and community are more likely to come from creating with other people than from consuming together or creating alone. Because shared creation requires initiation, planning, and social risk, it must be chosen deliberately rather than expected to happen by default.
+  <!-- opinion-id: opinion-000059 -->
+  <!-- sources: rw:01kx6fahxkrjq2yf7fj3jb5vkr, rw:01kx6favrrxs50y59g5cnhdy6k -->
