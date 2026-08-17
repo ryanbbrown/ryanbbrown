@@ -82,6 +82,10 @@
   <!-- opinion-id: opinion-000055 -->
   <!-- sources: rw:01kwakxpb46n3ypb93saym2cgt, rw:01kwam66dc9x2bx4wkk6samcj0 -->
 
+- With coding agents by my side, I should treat almost any software problem as tractable. As investigation and fixes get cheaper, the differentiating skill is a “nose” for what isn't right—and the will to make it so.
+  <!-- opinion-id: opinion-000064 -->
+  <!-- sources: rw:01kxttky23nqp9erjgknbqgnkp, rw:01kxttm7devch5x32z8rv33mfd -->
+
 ## AI Leverage And Organizations
 
 - Top builders and high-agency operators gain disproportionately more from AI than median users because they are better at choosing tasks, directing agents, and judging results.
@@ -110,9 +114,9 @@
 
 ## Moats And Strategy
 
-- Local AI will not match frontier cloud AI for the hardest work, but it can still handle enough tasks to weaken cloud compute as a universal moat.
+- Local and open-weight AI will not match frontier cloud models for the hardest work, but most everyday prompts are already close to a blind taste test, so cheaper models will handle the bulk of consumer queries and weaken cloud compute as a universal moat. Consumer AI pricing will approach zero and competition will shift toward privacy, features, interconnectivity, bundling, and the product or harness around the model, while frontier models retain a premium for coding, science, and other high-value work.
   <!-- opinion-id: opinion-000010 -->
-  <!-- sources: rw:01kkt3a62sextfspc2qxdswkxf, rw:01kncy6rsmznccb4z4284w62yg -->
+  <!-- sources: rw:01kkt3a62sextfspc2qxdswkxf, rw:01kncy6rsmznccb4z4284w62yg, reader-summary:01kxer7f3s8sec8qvmdkpmw0zz -->
 
 - Agent products are differentiated by model-plus-harness integration, not model quality alone.
   <!-- opinion-id: opinion-000011 -->
