@@ -46,17 +46,17 @@
   <!-- opinion-id: opinion-000029 -->
   <!-- sources: rw:01kpph104zd1vdw0vkdqpsc6m9 -->
 
-- Agent prompts and harnesses should simplify as models improve: give clear structure and canonical examples, but avoid sprawling if-else prompts that try to pre-solve every edge case.
+- Agent prompts and harnesses should simplify as models improve: give clear structure and canonical examples, but avoid sprawling if-else prompts that try to pre-solve every edge case. Treat every word and example as executable behavior—a single adjective can cause a quiet regression, and examples steer models more powerfully than written instructions—so prompt changes require evaluation rather than casual editing.
   <!-- opinion-id: opinion-000036 -->
-  <!-- sources: rw:01kr1e39kwmpkhr3jmqz7ayjtz, rw:01kr1gd42xk8r6ttgm3as7dx56 -->
+  <!-- sources: rw:01kr1e39kwmpkhr3jmqz7ayjtz, rw:01kr1gd42xk8r6ttgm3as7dx56, rw:01kyg336anwz7nd06myrth3gys, rw:01kyg36dshvt3jzffb5193ew3p -->
 
 - AI coding should be used as a learning loop, not just an issue-closing machine; if the model removes all friction without forcing hypotheses, explanations, and reflection, cognitive debt accumulates.
   <!-- opinion-id: opinion-000039 -->
   <!-- sources: rw:01ks4c170xt36eey5bq8sj0n5c, rw:01ks4c4wb18w1f86pc9dmj85ba, rw:01ks4c4zva18j35mcqvabwm870, rw:01ks4c5y6tq22mq95sm432mc83 -->
 
-- Reliable agent harnesses should not treat bash or arbitrary code execution as universally necessary; many enterprise tasks are better served by task-specific, constrained tools than by a model with general computer access.
+- Reliable agent harnesses should not treat bash or arbitrary code execution as universally necessary; many enterprise tasks are better served by task-specific, constrained tools. However, when a workflow must orchestrate many tool calls, letting the agent write and run a small program can be more efficient than selecting tools one turn at a time or calling them in a fixed order, because code can handle branching, parallelism, filtering, and retries deterministically. This expands the system’s attack surface, so execution should be sandboxed and permissions enforced below the model.
   <!-- opinion-id: opinion-000042 -->
-  <!-- sources: rw:01kskq8p9jv6843n8xhktvc31b, reader-note:01kp70dfsh9taejhdym1d5qm4a, reader-note:01kqctk7cvpm01de2a4dbxn9hf -->
+  <!-- sources: rw:01kskq8p9jv6843n8xhktvc31b, reader-note:01kp70dfsh9taejhdym1d5qm4a, reader-note:01kqctk7cvpm01de2a4dbxn9hf, reader-summary:01ky84y2zeerdqhz9fdadmk0gy -->
 
 - Agentic throughput is capped by human review bandwidth, not by how many workers the UI can spawn; the right amount of parallelism is the work you can actually evaluate without surrendering standards.
   <!-- opinion-id: opinion-000045 -->
