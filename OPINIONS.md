@@ -10,9 +10,9 @@
   <!-- opinion-id: opinion-000002 -->
   <!-- sources: rw:01km6w5j2etpssfcbyjk75spx5, rw:01km6w6qb90sfan8c6dnfgrsx3, rw:01kt7p7hczwhjqkstr4zeqhpzx, rw:01kt7p7s76qx5c04gzkw0mn0tz, reader-summary:01kvehk4xt999exskypaf1a59y -->
 
-- The human-owned artifact in agentic software should increasingly be the spec, acceptance criteria, and verification contract.
+- The human-owned artifacts in agentic software should increasingly be the product intent, acceptance criteria, architecture, program design, and verification contract. Architecture alone is not precise enough: before implementation, humans should review the shape of the code—including types, method signatures, program layout, and call stacks—so key design decisions are made explicitly rather than discovered during expensive code review.
   <!-- opinion-id: opinion-000003 -->
-  <!-- sources: rw:01kkt4ee5w23y80yqwmy77xpr0, rw:01kkvnzbr8p6g2vtr1wnxdf5g0, rw:01kkt3pncjjjsrs8dv3pa3g4tk -->
+  <!-- sources: rw:01kkt4ee5w23y80yqwmy77xpr0, rw:01kkvnzbr8p6g2vtr1wnxdf5g0, rw:01kkt3pncjjjsrs8dv3pa3g4tk, rw:01kymktt0hjbm8sqa2aj3d7e3r -->
 
 - AI makes implementation cheaper, but it does not make judgment cheap; the scarce work becomes deciding what is worth building, what good looks like, and whether an agent's output is actually good.
   <!-- opinion-id: opinion-000004 -->
@@ -86,15 +86,23 @@
   <!-- opinion-id: opinion-000064 -->
   <!-- sources: rw:01kxttky23nqp9erjgknbqgnkp, rw:01kxttm7devch5x32z8rv33mfd -->
 
+- Coding-agent progress should be judged on long-horizon, evolving software work rather than short tasks whose only reward is passing tests. Short-horizon evals do not penalize eroding maintainability; benchmarks such as SlopCodeBench, which reveal requirements incrementally across successive issues, are a better signal—and currently show that models cannot be trusted to run real-shaped software work lights-off without steering.
+  <!-- opinion-id: opinion-000066 -->
+  <!-- sources: rw:01kyjz5qw5p4y9pp1pkdmqz9f1, rw:01kynf22gzg9grdfsxywjb9fv6 -->
+
+- Agent performance depends on eliciting hidden constraints, not just receiving a task. Agents should ask one question at a time, prioritizing ambiguities whose answers could change the architecture; people should share their uncertainties and near-miss alternatives because why those options almost worked often reveals constraints—not merely preferences—more clearly than the final decision alone.
+  <!-- opinion-id: opinion-000068 -->
+  <!-- sources: rw:01kyr8198sjvr39g5y3wt1qeya, rw:01kyzqvd2bfzqqhz6bh9hjjdhv -->
+
 ## AI Leverage And Organizations
 
 - Top builders and high-agency operators gain disproportionately more from AI than median users because they are better at choosing tasks, directing agents, and judging results.
   <!-- opinion-id: opinion-000007 -->
   <!-- sources: rw:01knfbbfq8bs5rq4y3pry1qk8m, rw:01kkvb1sj4r2fnjczr3zdwyq9m, rw:01kncyags3eh05xj99e9b1kg19 -->
 
-- Small AI-native teams can threaten larger organizations when they have stronger constraints, modular systems, and faster feedback loops.
+- Small AI-native teams can threaten larger organizations when they combine strong constraints, modular systems, fast feedback loops, and high-quality people whose shared trust and taste enable faster decisions. As AI makes execution cheaper, organizations should optimize for the new bottleneck—judgment—rather than reflexively adding headcount.
   <!-- opinion-id: opinion-000008 -->
-  <!-- sources: reader-note:01kksyamfzmzcwz3z8hkxva94r, rw:01km1e1p2hm2qjwf64kyw2w8p7, rw:01kncyjj4a1pevhzz8qjetjsxv, rw:01kncykeak7bn6wawhf1ykqfar -->
+  <!-- sources: reader-note:01kksyamfzmzcwz3z8hkxva94r, rw:01km1e1p2hm2qjwf64kyw2w8p7, rw:01kncyjj4a1pevhzz8qjetjsxv, rw:01kncykeak7bn6wawhf1ykqfar, rw:01kyr4wxpwcwxtm17xa9ns118t -->
 
 - Many companies are sized for a world where scaling required more people, and agents may move the efficient size downward.
   <!-- opinion-id: opinion-000009 -->
@@ -113,6 +121,14 @@
   <!-- sources: rw:01kskr0rbgy1rkw3y1gq9jw55g, rw:01kskr18czcpb0gsrgex1jn5qc, rw:01kskr1kaf1k792d3t6q8xj596 -->
 
 ## Moats And Strategy
+
+- Enterprise AI will optimize for intelligence per dollar: route bounded routine tasks to the cheapest model that reliably clears the quality bar, and reserve frontier intelligence for open-ended problems where extra capability creates uncapped value. As models commoditize, durable value may migrate toward orchestration platforms that make multi-model AI secure, reliable, compliant, cost-efficient, and integrated—not merely toward whoever owns the smartest model.
+  <!-- opinion-id: opinion-000065 -->
+  <!-- sources: reader-summary:01kwd7dyn5pxb7j2ydq53tcy24 -->
+
+- Enterprise AI should minimize behavior change by embedding intelligence into existing workflows instead of requiring employees to open a new interface, remember when to use it, decide which tasks it applies to, and translate its output back into their real work.
+  <!-- opinion-id: opinion-000067 -->
+  <!-- sources: rw:01kyr5n200gq2ad40kx6wjfz4x -->
 
 - Local and open-weight AI will not match frontier cloud models for the hardest work, but most everyday prompts are already close to a blind taste test, so cheaper models will handle the bulk of consumer queries and weaken cloud compute as a universal moat. Consumer AI pricing will approach zero and competition will shift toward privacy, features, interconnectivity, bundling, and the product or harness around the model, while frontier models retain a premium for coding, science, and other high-value work.
   <!-- opinion-id: opinion-000010 -->
@@ -146,9 +162,9 @@
   <!-- opinion-id: opinion-000030 -->
   <!-- sources: rw:01kps6pym55wbe9p3jhk8mpd4x -->
 
-- AI-native service firms only become software-like when delivery gets easier, faster, and better with each client; the durable asset is vertical workflow knowledge, reusable agents, process data, and proof that the system compounds.
+- AI-native service firms and vertical application companies become defensible when delivery gets easier, faster, and better with each customer. Their durable asset is a tight learning loop that turns real customer workflows into vertical knowledge, reusable agents, process data, private benchmarks, and product features; a general lab is unlikely to run that loop as intensely because the vertical is not its main quest.
   <!-- opinion-id: opinion-000040 -->
-  <!-- sources: rw:01ksk7bdz0gp2cdf3p1ctd280t, rw:01ksk7d2kahx9fp1brv5n7aqs1, rw:01ksk7dsefqbz5scnqznv9yyk9 -->
+  <!-- sources: rw:01ksk7bdz0gp2cdf3p1ctd280t, rw:01ksk7d2kahx9fp1brv5n7aqs1, rw:01ksk7dsefqbz5scnqznv9yyk9, rw:01kyr75e64axfk1p2h74gz78m9 -->
 
 - Anything you can put on a leaderboard you can train against, so anything measurable is already on its way to commodity; durable value moves toward complex, private work that cannot be easily measured or copied.
   <!-- opinion-id: opinion-000050 -->
