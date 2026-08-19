@@ -90,15 +90,19 @@
   <!-- opinion-id: opinion-000066 -->
   <!-- sources: rw:01kyjz5qw5p4y9pp1pkdmqz9f1, rw:01kynf22gzg9grdfsxywjb9fv6 -->
 
+- Long-horizon agents are a poor fit for truly novel product work because complete requirements do not exist upfront and present models cannot reliably judge what humans find intuitive, enjoyable, or valuable. They are better at reproducing known forms—like a Call of Duty clone whose requirements have already been absorbed into model weights—than inventing profitable new products alone; novel work needs tight human-agent loops that prototype, test with people, question the approach, and iteratively discover requirements.
+  <!-- opinion-id: opinion-000071 -->
+  <!-- sources: reader-summary:01kzme0d456m0s6yx9wrb0p2tk -->
+
 - Agent performance depends on eliciting hidden constraints, not just receiving a task. Agents should ask one question at a time, prioritizing ambiguities whose answers could change the architecture; people should share their uncertainties and near-miss alternatives because why those options almost worked often reveals constraints—not merely preferences—more clearly than the final decision alone.
   <!-- opinion-id: opinion-000068 -->
   <!-- sources: rw:01kyr8198sjvr39g5y3wt1qeya, rw:01kyzqvd2bfzqqhz6bh9hjjdhv -->
 
 ## AI Leverage And Organizations
 
-- Top builders and high-agency operators gain disproportionately more from AI than median users because they are better at choosing tasks, directing agents, and judging results.
+- AI rewards volition and domain expertise more than passive access: high-agency experts gain disproportionately because they choose worthwhile tasks, articulate what good looks like, challenge the model using a theory of the domain, and use the interaction to strengthen rather than atrophy their own capabilities. Terence Tao extracting a much deeper discussion of the recently discovered counterexample to the Jacobian Conjecture from the same ChatGPT available to everyone is the pattern in miniature. Education should therefore shift toward developing volition—the desire to work hard and put abundant knowledge to creative effect.
   <!-- opinion-id: opinion-000007 -->
-  <!-- sources: rw:01knfbbfq8bs5rq4y3pry1qk8m, rw:01kkvb1sj4r2fnjczr3zdwyq9m, rw:01kncyags3eh05xj99e9b1kg19 -->
+  <!-- sources: rw:01knfbbfq8bs5rq4y3pry1qk8m, rw:01kkvb1sj4r2fnjczr3zdwyq9m, rw:01kncyags3eh05xj99e9b1kg19, rw:01kz46hcbds3p82ecg9f2s4z3c, rw:01kz4ak3s84yhqs7947rdcf481, rw:01kz7hfk8qpf650cnvq5af2jdp, rw:01kz7hgqd4ybpjefhecey60g91, rw:01kz7hgzsjq0qcyvfxxcf5wpfq, rw:01kz7hn26gzmf0c7z8zej6p21m -->
 
 - Small AI-native teams can threaten larger organizations when they combine strong constraints, modular systems, fast feedback loops, and high-quality people whose shared trust and taste enable faster decisions. As AI makes execution cheaper, organizations should optimize for the new bottleneck—judgment—rather than reflexively adding headcount.
   <!-- opinion-id: opinion-000008 -->
@@ -119,6 +123,10 @@
 - Enterprise AI transformation should start by mapping end-to-end workflows, ROI, data layers, and tribal knowledge around existing systems; rip-and-replace migrations often slow adoption more than they help.
   <!-- opinion-id: opinion-000041 -->
   <!-- sources: rw:01kskr0rbgy1rkw3y1gq9jw55g, rw:01kskr18czcpb0gsrgex1jn5qc, rw:01kskr1kaf1k792d3t6q8xj596 -->
+
+- AI capability can improve quickly while economic takeoff remains slow, because a large share of GDP sits in inefficient government and government-subsidized sectors that will adopt AI—and use it effectively—only gradually.
+  <!-- opinion-id: opinion-000070 -->
+  <!-- sources: rw:01kz58hb1w75qrp3mq1e0y83ys -->
 
 ## Moats And Strategy
 
@@ -153,6 +161,10 @@
 - Brand becomes more important when substantive product differences become easier to copy.
   <!-- opinion-id: opinion-000015 -->
   <!-- sources: rw:01km6wb6fs62k46c08ymnb0aye, rw:01knfqmzt8f383ajbrs048naza -->
+
+- As agent labor becomes cheap and commoditized, access to agents is not a durable moat. Companies should use that labor to accumulate what remains scarce—context, attention, trust, and brand—and turn those assets into differentiated outcomes through network effects.
+  <!-- opinion-id: opinion-000069 -->
+  <!-- sources: rw:01kz5858zt6m7msx2hj4f37k01 -->
 
 - Expertise is dispersing from experts' heads into skills, SOPs, context files, and open-source projects, and once captured it never comes back out; advantages based only on undocumented expert memory will erode as AI reuses what gets captured.
   <!-- opinion-id: opinion-000021 -->
