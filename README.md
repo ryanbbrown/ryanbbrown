@@ -12,11 +12,11 @@
 
 - 🏆 [Retrodict](https://github.com/ryanbbrown/Retrodict): Frontier ARC-AGI-3 agent: 99.86% RHAE, all 183 levels solved for $654
 - 🔗 [ThinHarness](https://github.com/ryanbbrown/thinharness): A compact, SDK-only agent harness: maximum performance, minimum framework code
-- ⚔️ [Deckfront](https://github.com/ryanbbrown/Deckfront) *(in progress)*: Building a digital board game that combines deck building and tactical skirmish
+- ⚔️ [Deckfront](https://github.com/ryanbbrown/Deckfront): A digital board game that combines deck building and tactical combat
 - 🧠 [OPINIONS.md Agent](https://github.com/ryanbbrown/opinions-agent): Agent that evolves my living beliefs file from my weekly reading highlights
-- 📝 [Obsidian Drift](https://github.com/ryanbbrown/obsidian-drift): Native version control + accumulated IDE-like diff view for Obsidian (750+ downloads)
+- 📝 [Obsidian Drift](https://github.com/ryanbbrown/obsidian-drift): Native version control + accumulated IDE-like diff view for Obsidian (900+ downloads)
 - 📚 [Kindle Storyteller](https://github.com/ryanbbrown/kindle-storyteller): iOS app for generating on-demand, live-syncing audiobook snippets using AI
-- 🎨 [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill): Coding agent skill for making Reveal.js presentations (300+ stars)
+- 🎨 [revealjs-skill](https://github.com/ryanbbrown/revealjs-skill): Coding agent skill for making Reveal.js presentations (400+ stars)
 - 🚪 [AI Gate](https://github.com/inulute/ai-gate): Contributor to an Electron app for using ChatGPT, Claude, and Gemini in parallel, tmux-style workspaces
 - 📸 [stylegen](https://github.com/ryanbbrown/stylegen): CLI for generating images with Gemini/GPT Image 2, supporting style references and parallel batch generation
 - 💪 [LastLift](https://github.com/ryanbbrown/lastlift): iOS app for tracking workout consistency across exercise groups, built with SwiftUI and SwiftData
