@@ -14,6 +14,10 @@
   <!-- opinion-id: opinion-000003 -->
   <!-- sources: rw:01kkvb1sj4r2fnjczr3zdwyq9m, rw:01kp1xajs4em2bhwcs3rz0j2wq -->
 
+- As AI makes implementation cheap, product quality depends increasingly on disciplined subtraction. Simplicity is not merely the absence of features; it comes from understanding users and problems deeply enough to know what to remove, leave alone, or never build. Teams should judge additions by whether they improve the outcome, not by whether agents make them easy to produce.
+  <!-- opinion-id: opinion-000052 -->
+  <!-- sources: rw:01kvpcgd5phxv29mnxv4mxa7tn, reader-summary:01kw82jrbzr6qmpn06em2e28pw -->
+
 - Private test suites can be more durable than the generated implementation they verify; SQLite's closed test suite is a clearer moat than its open-source core.
   <!-- opinion-id: opinion-000004 -->
   <!-- sources: rw:01knfpajparaa0by09exzazyka -->
@@ -34,9 +38,9 @@
   <!-- opinion-id: opinion-000021 -->
   <!-- sources: rw:01kpph104zd1vdw0vkdqpsc6m9 -->
 
-- Agent prompts and harnesses should simplify as models improve: give clear structure and canonical examples, but avoid sprawling if-else prompts that try to pre-solve every edge case.
+- As models improve, agent prompts and harnesses should simplify rather than accumulate instructions that compensate for yesterday's weaknesses. Hand-tuned prompts are useful for prototypes and one-off tasks, but sprawling prose patches create prompt debt and lock systems to model-specific quirks. Durable behavior should live in canonical examples, evaluations, metrics, and typed constraints, so prompts can be searched or generated against measurable outcomes and obsolete scaffolding can be removed as capability advances.
   <!-- opinion-id: opinion-000028 -->
-  <!-- sources: rw:01kr1e39kwmpkhr3jmqz7ayjtz, rw:01kr1gd42xk8r6ttgm3as7dx56 -->
+  <!-- sources: rw:01kr1e39kwmpkhr3jmqz7ayjtz, rw:01kr1gd42xk8r6ttgm3as7dx56, reader-summary:01kw82hq01wyqj4pvtteyvwepy -->
 
 - AI coding should be used as a learning loop, not just an issue-closing machine; if the model removes all friction without forcing hypotheses, explanations, and reflection, cognitive debt accumulates.
   <!-- opinion-id: opinion-000032 -->
@@ -138,9 +142,13 @@
   <!-- opinion-id: opinion-000033 -->
   <!-- sources: rw:01ksk7bdz0gp2cdf3p1ctd280t, rw:01ksk7d2kahx9fp1brv5n7aqs1, rw:01ksk7dsefqbz5scnqznv9yyk9 -->
 
-- Anything you can put on a leaderboard you can train against, so anything measurable is already on its way to commodity; durable value moves toward complex, private work that cannot be easily measured or copied.
+- Anything measurable can be trained against and is therefore on its way to commodity; durable AI application value shifts toward frontier work whose correctness depends on private data, trust, permission, and accountability. The moat is the continuing translation between model, workflow, and firm—built through deep integration, domain expertise, maintenance, and the authority to define and verify what good means.
   <!-- opinion-id: opinion-000045 -->
-  <!-- sources: rw:01ktzm222bgxfw5cfbpdapyaet -->
+  <!-- sources: rw:01ktzm222bgxfw5cfbpdapyaet, rw:01kvpbkw1cdcwhbb15jakh3ae8, rw:01kvpbn4zp1z1vt0ea3rsh17ts, rw:01kvpbpwwcmq0zvx5f03qm5pp9 -->
+
+- A competitive frontier-model market preserves room for valuable application companies: customers want supplier choice, while labs generally gain more from broad model adoption than from killing any single downstream product. Model suppliers are therefore less likely to capture the whole application layer when several credible labs remain in contention.
+  <!-- opinion-id: opinion-000051 -->
+  <!-- sources: rw:01kvpbszpjknaq87ptkvgzjzdp -->
 
 - Distribution-market fit precedes product-market fit. Before expecting the market to love a product, founders must understand where customers spend attention, whom they trust, and how they discover products—and build a repeatable distribution engine around those realities.
   <!-- opinion-id: opinion-000050 -->
