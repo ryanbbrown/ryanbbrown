@@ -70,6 +70,10 @@
   <!-- opinion-id: opinion-000046 -->
   <!-- sources: rw:01kv1xmg4addxx1z2p41kz4jbh -->
 
+- Do not turn a greenfield project into an autonomous software factory immediately. First pair with a coding agent to build the initial 3–10k lines and first few end-to-end features, establishing patterns, contracts, scaffolding, and a legible direction. Automating before those foundations exist tends to create code bloat and make the system harder to understand.
+  <!-- opinion-id: opinion-000048 -->
+  <!-- sources: rw:01kv6nc8acw97aymnfmxr2e9fs -->
+
 ## AI Leverage And Organizations
 
 - Top builders and high-agency operators gain disproportionately more from AI than median users because they are better at choosing tasks, directing agents, and judging results.
@@ -95,6 +99,14 @@
 - AI transformation should usually layer agents onto the systems employees already use rather than require wholesale replacement; rip-and-replace migrations delay value and force teams to relearn software they already depend on.
   <!-- opinion-id: opinion-000038 -->
   <!-- sources: rw:01kskr18czcpb0gsrgex1jn5qc -->
+
+- The main bottleneck to automating complex white-collar work is increasingly scalable feedback data, not raw model intelligence. Even open-ended management can become a trainable domain if labs bootstrap agents with human decision traces and then use real-world company outcomes as rewards. Out-of-distribution failures are therefore often temporary gaps in the training pipeline rather than durable limits on what AI can do.
+  <!-- opinion-id: opinion-000047 -->
+  <!-- sources: rw:01kv6n0959jsvc4gytna23bkzx, rw:01kv6n5469phh7d7q9s6ez8wms, rw:01kv6n5k7sbgztdq3yt0ta0dkd -->
+
+- AI can make an individual faster while making the organization slower when unedited output transfers verification, compression, and understanding to many downstream readers. Generated work is not finished until its author has checked it, cut it to what matters, and can defend every claim; otherwise local productivity is merely displaced cognitive cost.
+  <!-- opinion-id: opinion-000049 -->
+  <!-- sources: reader-summary:01kvehk4xt999exskypaf1a59y -->
 
 ## Moats And Strategy
 
@@ -129,6 +141,10 @@
 - Anything you can put on a leaderboard you can train against, so anything measurable is already on its way to commodity; durable value moves toward complex, private work that cannot be easily measured or copied.
   <!-- opinion-id: opinion-000045 -->
   <!-- sources: rw:01ktzm222bgxfw5cfbpdapyaet -->
+
+- Distribution-market fit precedes product-market fit. Before expecting the market to love a product, founders must understand where customers spend attention, whom they trust, and how they discover products—and build a repeatable distribution engine around those realities.
+  <!-- opinion-id: opinion-000050 -->
+  <!-- sources: rw:01kvp4f50jt3eh3xmhgfr9sa3f -->
 
 ## Taste, Craft, And Signal
 
