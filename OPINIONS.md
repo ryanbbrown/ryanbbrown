@@ -54,6 +54,10 @@
   <!-- opinion-id: opinion-000039 -->
   <!-- sources: rw:01kt7p7hczwhjqkstr4zeqhpzx, rw:01kt7p7s76qx5c04gzkw0mn0tz -->
 
+- For code I care about, speed is not worth surrendering taste, control, or understanding. Current models often replace strong invariants with defensive fallbacks, duplicate code, poor abstractions, and local patches that make bad states—and machine-dependent maintenance—more likely. Human oversight must preserve coherent design, a high bar, and understanding of what I ship.
+  <!-- opinion-id: opinion-000054 -->
+  <!-- sources: rw:01kwakxpb46n3ypb93saym2cgt, rw:01kwam66dc9x2bx4wkk6samcj0 -->
+
 - Agentic throughput is capped by human review bandwidth, not by how many workers the UI can spawn; the right amount of parallelism is the work you can actually evaluate without surrendering standards.
   <!-- opinion-id: opinion-000040 -->
   <!-- sources: rw:01kt868v6vctcfvazfy805hpmn, rw:01kt86bmyk96v9fbg4z9g1a945 -->
@@ -150,6 +154,14 @@
   <!-- opinion-id: opinion-000051 -->
   <!-- sources: rw:01kvpbszpjknaq87ptkvgzjzdp -->
 
+- As capable models become cheaper and more interchangeable, AI value will shift from benchmark leadership toward intelligence per dollar and the infrastructure that makes deployment reliable at scale. Durable rents should accrue to scarce orchestration, integration, governance, security, compliance, distribution, and enterprise trust rather than to model intelligence alone.
+  <!-- opinion-id: opinion-000056 -->
+  <!-- sources: reader-summary:01kwd7dyn5pxb7j2ydq53tcy24 -->
+
+- An AI product should own the agent interface only when users already live in its system or specialized domain reasoning is the product. When value resides mainly in data or actions that complement a broader workflow, it should power the horizontal agent users already inhabit. Many products should do both: an embedded agent for core users and a headless interface for everyone else.
+  <!-- opinion-id: opinion-000057 -->
+  <!-- sources: reader-summary:01kwdzn0vfvbxpx25r0bwewy8c -->
+
 - Distribution-market fit precedes product-market fit. Before expecting the market to love a product, founders must understand where customers spend attention, whom they trust, and how they discover products—and build a repeatable distribution engine around those realities.
   <!-- opinion-id: opinion-000050 -->
   <!-- sources: rw:01kvp4f50jt3eh3xmhgfr9sa3f -->
@@ -180,6 +192,10 @@
   <!-- opinion-id: opinion-000041 -->
   <!-- sources: rw:01ktd4kw43j7714py2smmacmpt -->
 
+- Taste is the ability to make consistently high-quality qualitative judgments when no objective metric can decide. Its value is not that the output cannot be copied—the output is often easy to imitate—but that good taste originates the choices everyone else wants to copy.
+  <!-- opinion-id: opinion-000055 -->
+  <!-- sources: rw:01kwawx9zm3s9wwzsh2htnkfme, rw:01kwawy67m3t1xcn3w939b28rr, rw:01kwawydzcs652tn0p9na08qbg -->
+
 ## Career And Work
 
 - A corporate job does not need to be personally meaningful if it is useful: building skills, funding independent projects, or buying time for higher-conviction work.
@@ -206,9 +222,17 @@
   <!-- opinion-id: opinion-000027 -->
   <!-- sources: rw:01kr1c8j4a6aph5qyrbswghyyg -->
 
+- The frontier of a field is partly tacit because its newest information has not yet been written down. Genuine conversations with active practitioners can therefore teach more than consuming published commentary while also creating the relationships through which future opportunities emerge.
+  <!-- opinion-id: opinion-000058 -->
+  <!-- sources: rw:01kwqmk418pzfvhs5wajx45n44 -->
+
 - Career leverage is not about being well-rounded; Price's Law suggests that a small square-root-sized minority produces much of the output, so the goal is to find and compound your √n multiplier skills into a rare combination.
   <!-- opinion-id: opinion-000031 -->
   <!-- sources: rw:01ks4a57xnehk7pvt344an40r0, rw:01ks4a6rrzwhhxew6vxs7d1h4k -->
+
+- AI will not eliminate generalist software engineers, but it is collapsing the premium on implementation-heavy work while increasing the value of deep expertise and systems intuition. The strongest returns will come from mastering a hard production domain—such as reliability, security, performance, observability, or scale—where judgment about real operational tradeoffs remains scarce.
+  <!-- opinion-id: opinion-000053 -->
+  <!-- sources: rw:01kwagqq4fmgg5ymmgwav25g79 -->
 
 - Career choices should be judged by the compounding assets they build - skills, reputation, network, options, and operational scars - not just immediate pay, title, or brand.
   <!-- opinion-id: opinion-000036 -->
