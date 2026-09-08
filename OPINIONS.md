@@ -46,13 +46,17 @@
   <!-- opinion-id: opinion-000028 -->
   <!-- sources: rw:01kr1e39kwmpkhr3jmqz7ayjtz, rw:01kr1gd42xk8r6ttgm3as7dx56, reader-summary:01kw82hq01wyqj4pvtteyvwepy -->
 
+- Every token in a prompt is part of an executable behavioral specification: a single adjective can silently change model behavior, and examples often override explicit instructions. Prompt review should therefore treat examples and wording like code, testing small edits for regressions rather than assuming prose is neutral or that another rule will safely correct a failure.
+  <!-- opinion-id: opinion-000064 -->
+  <!-- sources: rw:01kyg336anwz7nd06myrth3gys, rw:01kyg36dshvt3jzffb5193ew3p -->
+
 - AI coding should be used as a learning loop, not just an issue-closing machine; if the model removes all friction without forcing hypotheses, explanations, and reflection, cognitive debt accumulates.
   <!-- opinion-id: opinion-000032 -->
   <!-- sources: rw:01ks4c170xt36eey5bq8sj0n5c, rw:01ks4c4wb18w1f86pc9dmj85ba, rw:01ks4c4zva18j35mcqvabwm870, rw:01ks4c5y6tq22mq95sm432mc83, rw:01ks4c5kbce54yadfx1fwytfz2 -->
 
-- Reliable agent harnesses should not treat bash or arbitrary code execution as universally necessary; many enterprise tasks are better served by task-specific, constrained tools than by a model with general computer access.
+- Agent systems should choose their execution surface by workflow. For compositional workflows, a small sandboxed code-execution surface can be better than a large catalog of bespoke tools because code provides deterministic control flow, filters intermediate data, and creates reusable artifacts; security should come from typed capabilities and scoped permissions beneath the model. But bash or arbitrary code execution is not universally necessary, and many enterprise tasks are better served by task-specific, constrained tools.
   <!-- opinion-id: opinion-000035 -->
-  <!-- sources: rw:01kskq8p9jv6843n8xhktvc31b, reader-note:01kp70dfsh9taejhdym1d5qm4a, reader-note:01kqctk7cvpm01de2a4dbxn9hf -->
+  <!-- sources: rw:01kskq8p9jv6843n8xhktvc31b, reader-note:01kp70dfsh9taejhdym1d5qm4a, reader-note:01kqctk7cvpm01de2a4dbxn9hf, reader-summary:01ky84y2zeerdqhz9fdadmk0gy -->
 
 - People remain accountable for AI-generated artifacts they ship and should understand them well enough to defend them under questioning; review culture should give harsh, specific pushback when output crosses into slop.
   <!-- opinion-id: opinion-000039 -->
