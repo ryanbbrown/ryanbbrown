@@ -14,6 +14,10 @@
   <!-- opinion-id: opinion-000003 -->
   <!-- sources: rw:01kkvb1sj4r2fnjczr3zdwyq9m, rw:01kp1xajs4em2bhwcs3rz0j2wq -->
 
+- With coding agents by my side, I believe I can do anything in software: they make previously impractical projects, investigations, and improvements feasible by collapsing the cost of implementation and validation. As execution becomes commoditized, the differentiating skill is a nose for correctness—the ability to notice what feels wrong, reason from first principles about what right looks like, and care enough to keep pushing until it is right.
+  <!-- opinion-id: opinion-000063 -->
+  <!-- sources: rw:01kxttky23nqp9erjgknbqgnkp, rw:01kxttm7devch5x32z8rv33mfd -->
+
 - As AI makes implementation cheap, product quality depends increasingly on disciplined subtraction. Simplicity is not merely the absence of features; it comes from understanding users and problems deeply enough to know what to remove, leave alone, or never build. Teams should judge additions by whether they improve the outcome, not by whether agents make them easy to produce.
   <!-- opinion-id: opinion-000052 -->
   <!-- sources: rw:01kvpcgd5phxv29mnxv4mxa7tn, reader-summary:01kw82jrbzr6qmpn06em2e28pw -->
@@ -81,6 +85,12 @@
 - Do not turn a greenfield project into an autonomous software factory immediately. First pair with a coding agent to build the initial 3–10k lines and first few end-to-end features, establishing patterns, contracts, scaffolding, and a legible direction. Automating before those foundations exist tends to create code bloat and make the system harder to understand.
   <!-- opinion-id: opinion-000048 -->
   <!-- sources: rw:01kv6nc8acw97aymnfmxr2e9fs -->
+
+## AI Products
+
+- Most everyday AI queries are already beyond the point where users can reliably distinguish frontier models from cheaper or open-source alternatives. As quality converges for these common tasks, inference will commoditize toward free, bundled, local, or ad-supported access. Premium models will retain value mainly where capability differences materially affect outcomes, such as coding and science, while consumer competition shifts to privacy, integration, pricing, and the product around the model.
+  <!-- opinion-id: opinion-000062 -->
+  <!-- sources: reader-summary:01kxer7f3s8sec8qvmdkpmw0zz -->
 
 ## AI Leverage And Organizations
 
