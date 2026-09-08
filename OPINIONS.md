@@ -166,6 +166,10 @@
   <!-- opinion-id: opinion-000050 -->
   <!-- sources: rw:01kvp4f50jt3eh3xmhgfr9sa3f -->
 
+- As software creation becomes cheap and accessible, building a simple system is less likely to create durable value by itself. Differentiation increasingly comes from applying extreme focus to an important, ambitious problem rather than from the mere ability to ship software.
+  <!-- opinion-id: opinion-000060 -->
+  <!-- sources: rw:01kx8m8vnmn0ez2e8fb1xjwdj4 -->
+
 ## Taste, Craft, And Signal
 
 - Taste matters more when implementation gets cheaper, because the constraint shifts from "can this be built?" to "is this coherent, polished, and worth caring about?"
@@ -234,10 +238,20 @@
   <!-- opinion-id: opinion-000053 -->
   <!-- sources: rw:01kwagqq4fmgg5ymmgwav25g79 -->
 
-- Career choices should be judged by the compounding assets they build - skills, reputation, network, options, and operational scars - not just immediate pay, title, or brand.
+- Career choices should be judged by the scarce, compounding assets they build—skills, reputation, trusted relationships, sustained collaboration, options, and operational scars—not just immediate pay, title, brand, or funding. Capital is increasingly accessible, but committed human time, attention, and trust remain durable constraints and sources of leverage.
   <!-- opinion-id: opinion-000036 -->
-  <!-- sources: rw:01ksv22qgqjrmckm733rhy3br4, rw:01ksv259vfm1xwns6ksyfcb3z0, rw:01ksvjrngk7z25y7ygtv1cd6rv -->
+  <!-- sources: rw:01ksv22qgqjrmckm733rhy3br4, rw:01ksv259vfm1xwns6ksyfcb3z0, rw:01ksvjrngk7z25y7ygtv1cd6rv, rw:01kx8kxfmxjf7sq3px8h9s2fyj -->
 
 - High agency needs recovery and self-context, not endless escalation; because there is no final level, ambitious people should deliberately look back, accept their current state, and take breaks.
   <!-- opinion-id: opinion-000037 -->
   <!-- sources: rw:01ksjznkpkmd1p430mjrnt1dfa, rw:01kskp6r68fqp6eewx9v87pt8f, rw:01kskp7frjqgykp69s4ja2g51q -->
+
+- Rejection tolerance is a trainable component of agency. Especially early in a career, deliberately pursuing opportunities likely to say no helps decouple rejection from surprise and dejection, making ambition less constrained by fear of the outcome.
+  <!-- opinion-id: opinion-000061 -->
+  <!-- sources: rw:01kx9zx45d7vwgw0cc30m1hqz7 -->
+
+## Meaning And Community
+
+- A meaningful, vivid life requires deliberately creating things with other people—not merely consuming together or creating alone. Because shared creation requires planning, initiation, and social risk, it is chronically undersupplied; avoiding that discomfort can quietly produce years of thin experience.
+  <!-- opinion-id: opinion-000059 -->
+  <!-- sources: rw:01kx6fahxkrjq2yf7fj3jb5vkr, rw:01kx6favrrxs50y59g5cnhdy6k -->
