@@ -66,9 +66,13 @@
   <!-- opinion-id: opinion-000054 -->
   <!-- sources: rw:01kwakxpb46n3ypb93saym2cgt, rw:01kwam66dc9x2bx4wkk6samcj0 -->
 
+- SlopCodeBench is a useful signal that today's models cannot reliably perform real-shaped, issue-by-issue software engineering without human steering. Success on isolated coding tasks should not be mistaken for the ability to run production development lights-off.
+  <!-- opinion-id: opinion-000065 -->
+  <!-- sources: rw:01kynf22gzg9grdfsxywjb9fv6 -->
+
 - Agentic throughput is capped by human review bandwidth, not by how many workers the UI can spawn; the right amount of parallelism is the work you can actually evaluate without surrendering standards.
   <!-- opinion-id: opinion-000040 -->
-  <!-- sources: rw:01kt868v6vctcfvazfy805hpmn, rw:01kt86bmyk96v9fbg4z9g1a945 -->
+  <!-- sources: rw:01kt868v6vctcfvazfy805hpmn, rw:01kt86bmyk96v9fbg4z9g1a945, rw:01kyr5441qt9wfk233qfy0gfh8 -->
 
 - A good vertical agent is a faithful compression of its task distribution: common capabilities belong in fast, always-loaded prompt context, rarer capabilities belong in discoverable tiers, and complete underlying references should remain searchable for the rare cases the curated layers do not cover.
   <!-- opinion-id: opinion-000042 -->
@@ -102,9 +106,9 @@
   <!-- opinion-id: opinion-000005 -->
   <!-- sources: rw:01knfbbfq8bs5rq4y3pry1qk8m, rw:01kncyags3eh05xj99e9b1kg19 -->
 
-- AI can move the efficient organization size downward: small AI-native teams can outmove larger organizations when they have stronger constraints, modular systems, and faster feedback loops, while larger companies carry coordination costs and structural debt.
+- As AI makes execution cheaper, the efficient organization size moves downward and discernment becomes the bottleneck. Small, high-quality AI-native teams can outmove larger organizations by making judgment calls faster and with more trust, especially when supported by strong constraints, modular systems, and fast feedback loops, while larger companies carry coordination costs and structural debt.
   <!-- opinion-id: opinion-000006 -->
-  <!-- sources: reader-note:01kksyamfzmzcwz3z8hkxva94r, rw:01km1e1p2hm2qjwf64kyw2w8p7, rw:01kncyjj4a1pevhzz8qjetjsxv, rw:01kncykeak7bn6wawhf1ykqfar, rw:01kkt3c037a7gghx7jfxk0bbv2 -->
+  <!-- sources: reader-note:01kksyamfzmzcwz3z8hkxva94r, rw:01km1e1p2hm2qjwf64kyw2w8p7, rw:01kncyjj4a1pevhzz8qjetjsxv, rw:01kncykeak7bn6wawhf1ykqfar, rw:01kkt3c037a7gghx7jfxk0bbv2, rw:01kyr4wxpwcwxtm17xa9ns118t -->
 
 - AI does not need to beat an idealized version of knowledge work; in many companies it only has to beat messy, inconsistent operations where simply following instructions reliably is already above the current bar.
   <!-- opinion-id: opinion-000019 -->
@@ -183,6 +187,10 @@
 - As software creation becomes cheap and accessible, building a simple system is less likely to create durable value by itself. Differentiation increasingly comes from applying extreme focus to an important, ambitious problem rather than from the mere ability to ship software.
   <!-- opinion-id: opinion-000060 -->
   <!-- sources: rw:01kx8m8vnmn0ez2e8fb1xjwdj4 -->
+
+- A vertical AI startup can defend itself against foundation-model labs by obsessing over a narrow set of real customer workflows. Continuously turning those workflows into benchmarks and product improvements creates a learning loop the labs are unlikely to match because the vertical is the startup's whole business, not the lab's main quest.
+  <!-- opinion-id: opinion-000066 -->
+  <!-- sources: rw:01kyr75e64axfk1p2h74gz78m9 -->
 
 ## Taste, Craft, And Signal
 
