@@ -100,6 +100,16 @@
   <!-- opinion-id: opinion-000067 -->
   <!-- sources: rw:01kz46hcbds3p82ecg9f2s4z3c, rw:01kz4ak3s84yhqs7947rdcf481 -->
 
+## Learning
+
+- Learning speed is often constrained less by practice volume than by feedback latency. Repetition without timely correction can entrench mistakes, so evaluate a learning process by how quickly it reveals that you are wrong and lets the next attempt incorporate that information.
+  <!-- opinion-id: opinion-000079 -->
+  <!-- sources: rw:01m1g6pmf1dn7kgetrjs025ape -->
+
+- Learn just in time from real problems rather than preparing abstractly for every possible need. Starting with the problem lets reality design the curriculum, makes new information immediately usable, and prevents broad preparation from becoming a substitute for doing the work.
+  <!-- opinion-id: opinion-000080 -->
+  <!-- sources: rw:01m1g6txpr06adb7ag4sm8abgw, rw:01m1g6x59sqwnr27sg53qkg6cw -->
+
 ## AI And Expertise
 
 - Stronger language models increase the leverage of domain expertise rather than making it irrelevant. Experts can form better questions, recognize promising answers, reject superficially plausible ones, and steer the model using a theory of the domain. For many difficult tasks, the bottleneck is the human's ability to specify and evaluate the desired solution, not whether the model contains the needed information. Example: Terence Tao's conversation with ChatGPT.
@@ -129,6 +139,10 @@
 - Most everyday AI queries are already beyond the point where users can reliably distinguish frontier models from cheaper or open-source alternatives. As quality converges for these common tasks, inference will commoditize toward free, bundled, local, or ad-supported access. Premium models will retain value mainly where capability differences materially affect outcomes, such as coding and science, while consumer competition shifts to privacy, integration, pricing, and the product around the model.
   <!-- opinion-id: opinion-000062 -->
   <!-- sources: reader-summary:01kxer7f3s8sec8qvmdkpmw0zz -->
+
+- Demand for fast, cheap, good-enough AI models will surge because many business automations do not need frontier intelligence, and using the strongest model can erase their ROI. Products should remain model-neutral enough to route work by capability and cost. This positions OpenAI well, while Anthropic's high costs and limited focus on smaller, cheaper models put it at a disadvantage.
+  <!-- opinion-id: opinion-000078 -->
+  <!-- sources: rw:01m1cwdnhpajjp3a6022r6fqgf -->
 
 ## AI Leverage And Organizations
 
@@ -269,6 +283,10 @@
 - Taste is the ability to make consistently high-quality qualitative judgments when no objective metric can decide. Its value is not that the output cannot be copied—the output is often easy to imitate—but that good taste originates the choices everyone else wants to copy.
   <!-- opinion-id: opinion-000055 -->
   <!-- sources: rw:01kwawx9zm3s9wwzsh2htnkfme, rw:01kwawy67m3t1xcn3w939b28rr, rw:01kwawydzcs652tn0p9na08qbg -->
+
+- Taste is not an objective hierarchy; it is the judgment required to understand a landscape of possibilities and choose what fits a particular vision and audience. Critical, commercial, and personal taste are different objectives, not ranks of legitimacy. Strong creative work therefore balances audience resonance with the creator's own preferences: over-index on either and the result becomes generic or relevant only to its maker.
+  <!-- opinion-id: opinion-000077 -->
+  <!-- sources: rw:01m1cvbrmr33v8mdtajn7e3fw9, rw:01m1cvcz4xe01thr197xw98wtd, rw:01m1cvgah4ksf0qzmr22b7cgk8, rw:01m1cvggys65sg2qntzdxaqgyw, rw:01m1cvt2xyja89z2jfb72xq0y6 -->
 
 ## Career And Work
 
