@@ -112,6 +112,12 @@
   <!-- opinion-id: opinion-000070 -->
   <!-- sources: reader-summary:01kzme0d456m0s6yx9wrb0p2tk -->
 
+## Product Strategy
+
+- Forward-deployed engineers are valuable in new categories when field pain becomes input to a scalable product. Each deployment should make the next easier by turning bespoke discoveries into product primitives, so FDE involvement diminishes as the product matures. If engineers merely absorb recurring pain, the company has let a discovery mechanism harden into a services business.
+  <!-- opinion-id: opinion-000071 -->
+  <!-- sources: rw:01m08bkw2hdez9q1xwzb2bsqvm, rw:01m08bpjwd4zq0ajzdvv0hcqct, rw:01m08bzzr6vm7xexetjt9e4bn9 -->
+
 ## AI And The Economy
 
 - AI's economy-wide impact will arrive more slowly than its technical progress suggests because much of GDP sits in inefficient, regulated, governmental, or government-subsidized sectors that adopt new technology slowly and often use it poorly.
@@ -130,6 +136,10 @@
   <!-- opinion-id: opinion-000005 -->
   <!-- sources: rw:01knfbbfq8bs5rq4y3pry1qk8m, rw:01kncyags3eh05xj99e9b1kg19 -->
 
+- AI proficiency has an extreme three-tier distribution: even someone in the top 1% of users is far behind the frontier's very best operators, while standing across an even larger chasm from the median employee. Each release can widen these gaps because capability advances faster than most people develop skill. Enterprise rollouts should not confuse access with proficiency: put AI into background workflows for non-experts, let power users publish ranked reusable skills, and judge work outcomes rather than logins.
+  <!-- opinion-id: opinion-000074 -->
+  <!-- sources: rw:01m08erdka58vjr5zyvjw14yxr, rw:01m08ermp96kdgj79kkmfkxpc3 -->
+
 - As AI makes execution cheaper, the efficient organization size moves downward and discernment becomes the bottleneck. Small, high-quality AI-native teams can outmove larger organizations by making judgment calls faster and with more trust, especially when supported by strong constraints, modular systems, and fast feedback loops, while larger companies carry coordination costs and structural debt.
   <!-- opinion-id: opinion-000006 -->
   <!-- sources: reader-note:01kksyamfzmzcwz3z8hkxva94r, rw:01km1e1p2hm2qjwf64kyw2w8p7, rw:01kncyjj4a1pevhzz8qjetjsxv, rw:01kncykeak7bn6wawhf1ykqfar, rw:01kkt3c037a7gghx7jfxk0bbv2, rw:01kyr4wxpwcwxtm17xa9ns118t -->
@@ -142,9 +152,13 @@
   <!-- opinion-id: opinion-000030 -->
   <!-- sources: rw:01ks48kzxb83phc9391h8cf8rb, rw:01ks48m61rmne707ncmvybtzep, rw:01ks48n8bwnm9z99f78pykbdz0, rw:01ks48npm5g6axxxm14749q10z -->
 
-- Enterprise AI deployment should start by mapping how work actually happens end to end, identifying the workflows where agents offer enough value to justify deployment, translating tribal knowledge into decision logic, and evaluating agents at the same intermediate checkpoints humans use.
+- Enterprise AI deployment should start by mapping and documenting how work actually happens end to end, including exceptions; resolving conflicting judgment rules; translating tribal knowledge into explicit decision logic; and identifying workflows where agents offer enough value to justify deployment. Do not automate an ambiguous or dysfunctional process before doing this, because an agent will fill gaps with assumptions and scale the dysfunction. Evaluate deployed agents at the same intermediate checkpoints humans use.
   <!-- opinion-id: opinion-000034 -->
-  <!-- sources: rw:01kskr0rbgy1rkw3y1gq9jw55g, rw:01kskdka8pn546x269sscxrjbs, rw:01kskdxwnen4fmrjggtkznerh8 -->
+  <!-- sources: rw:01kskr0rbgy1rkw3y1gq9jw55g, rw:01kskdka8pn546x269sscxrjbs, rw:01kskdxwnen4fmrjggtkznerh8, rw:01m08gtqyp8b8127rkqsdcnaxc, rw:01m08gy822s9eydvhtxjda0dps, rw:01m08hakwrqq1zh08n63z7nzz2 -->
+
+- Background agents can create far more enterprise value than prompted sidekicks because they remove recurring work rather than merely accelerate it: the cited workflows report roughly 60–90% efficiency gains versus 10–20%. They should run autonomously and bring humans in for exceptions and judgment, but only after the workflow—including exceptions—is documented; otherwise automation scales existing dysfunction.
+  <!-- opinion-id: opinion-000072 -->
+  <!-- sources: rw:01m08h1s3xwmyhk1yq6te0rdhj -->
 
 - AI transformation should usually layer agents onto the systems employees already use rather than require wholesale replacement; rip-and-replace migrations delay value and force teams to relearn software they already depend on.
   <!-- opinion-id: opinion-000038 -->
@@ -215,6 +229,12 @@
 - A vertical AI startup can defend itself against foundation-model labs by obsessing over a narrow set of real customer workflows. Continuously turning those workflows into benchmarks and product improvements creates a learning loop the labs are unlikely to match because the vertical is the startup's whole business, not the lab's main quest.
   <!-- opinion-id: opinion-000066 -->
   <!-- sources: rw:01kyr75e64axfk1p2h74gz78m9 -->
+
+## Feedback And Craft
+
+- Ask for feedback when work is roughly 30% complete, not when it is nearly finished. Early framing invites debate about direction and what the product should be; late framing signals that only defects and polish remain open, when structural changes are most costly.
+  <!-- opinion-id: opinion-000073 -->
+  <!-- sources: rw:01m08ne2wnc4kgc2xcb3nk1d85 -->
 
 ## Taste, Craft, And Signal
 
