@@ -230,6 +230,10 @@
   <!-- opinion-id: opinion-000066 -->
   <!-- sources: rw:01kyr75e64axfk1p2h74gz78m9 -->
 
+- Abundant model intelligence will not eliminate the application layer. Labs are pulled toward general-purpose, enormous markets, while customers pay for companies that integrate intelligence into specific institutions and turn tokens into accountable real-world outcomes. As capabilities mature, these companies should price against customer outcomes already forecast or targeted; early builders can own those economics. The durable opportunity is not defending scarce model access but making abundant intelligence economically useful.
+  <!-- opinion-id: opinion-000075 -->
+  <!-- sources: rw:01m0xg7d0hw0ec2dxfxmkbk755, rw:01m0xgy5g53n5gvk93exbt5cey -->
+
 ## Feedback And Craft
 
 - Ask for feedback when work is roughly 30% complete, not when it is nearly finished. Early framing invites debate about direction and what the product should be; late framing signals that only defects and polish remain open, when structural changes are most costly.
@@ -303,6 +307,10 @@
 - AI will not eliminate generalist software engineers, but it is collapsing the premium on implementation-heavy work while increasing the value of deep expertise and systems intuition. The strongest returns will come from mastering a hard production domain—such as reliability, security, performance, observability, or scale—where judgment about real operational tradeoffs remains scarce.
   <!-- opinion-id: opinion-000053 -->
   <!-- sources: rw:01kwagqq4fmgg5ymmgwav25g79 -->
+
+- Engineering value comes from solving customer problems and managing contextual tradeoffs, not producing code. AI can expand implementation capacity, but it cannot independently resolve decisions that depend on product, organizational, and customer context beyond the codebase. Junior engineers therefore still add capacity: they own a smaller scope of complexity than senior engineers, but perform the same essential role.
+  <!-- opinion-id: opinion-000076 -->
+  <!-- sources: rw:01m12fv9sjgb82581ecezsa1n3, rw:01m12fvtqvfnqy218w7e4gr5n0 -->
 
 - Career choices should be judged by the scarce, compounding assets they build—skills, reputation, trusted relationships, sustained collaboration, options, and operational scars—not just immediate pay, title, brand, or funding. Capital is increasingly accessible, but committed human time, attention, and trust remain durable constraints and sources of leverage.
   <!-- opinion-id: opinion-000036 -->
