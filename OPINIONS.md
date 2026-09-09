@@ -94,6 +94,30 @@
   <!-- opinion-id: opinion-000048 -->
   <!-- sources: rw:01kv6nc8acw97aymnfmxr2e9fs -->
 
+## AI And Learning
+
+- AI makes volition more important, not less. The people who benefit most will actively wrestle with it to strengthen their own capabilities and accomplish more, rather than using it merely to avoid effort. Education should therefore prioritize the desire to work hard, learn, and put abundant machine knowledge to creative use.
+  <!-- opinion-id: opinion-000067 -->
+  <!-- sources: rw:01kz46hcbds3p82ecg9f2s4z3c, rw:01kz4ak3s84yhqs7947rdcf481 -->
+
+## AI And Expertise
+
+- Stronger language models increase the leverage of domain expertise rather than making it irrelevant. Experts can form better questions, recognize promising answers, reject superficially plausible ones, and steer the model using a theory of the domain. For many difficult tasks, the bottleneck is the human's ability to specify and evaluate the desired solution, not whether the model contains the needed information. Example: Terence Tao's conversation with ChatGPT.
+  <!-- opinion-id: opinion-000069 -->
+  <!-- sources: rw:01kz7hfk8qpf650cnvq5af2jdp, rw:01kz7hgqd4ybpjefhecey60g91, rw:01kz7hgzsjq0qcyvfxxcf5wpfq, rw:01kz7hn26gzmf0c7z8zej6p21m -->
+
+## AI Product Development
+
+- Long-horizon agents are best suited to executing already-understood requirements, not autonomously creating novel products. Novel work discovers its requirements through small prototypes, real-world feedback, and repeated human judgments about usefulness, intuition, and delight. Given the state of models today, tight human-agent feedback loops are much better for this work than agents that disappear for long stretches and return with fully built solutions, because current models cannot make those qualitative judgments themselves.
+  <!-- opinion-id: opinion-000070 -->
+  <!-- sources: reader-summary:01kzme0d456m0s6yx9wrb0p2tk -->
+
+## AI And The Economy
+
+- AI's economy-wide impact will arrive more slowly than its technical progress suggests because much of GDP sits in inefficient, regulated, governmental, or government-subsidized sectors that adopt new technology slowly and often use it poorly.
+  <!-- opinion-id: opinion-000068 -->
+  <!-- sources: rw:01kz58hb1w75qrp3mq1e0y83ys -->
+
 ## AI Products
 
 - Most everyday AI queries are already beyond the point where users can reliably distinguish frontier models from cheaper or open-source alternatives. As quality converges for these common tasks, inference will commoditize toward free, bundled, local, or ad-supported access. Premium models will retain value mainly where capability differences materially affect outcomes, such as coding and science, while consumer competition shifts to privacy, integration, pricing, and the product around the model.
