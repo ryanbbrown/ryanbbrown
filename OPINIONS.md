@@ -64,7 +64,7 @@
 
 - For code I care about, speed is not worth surrendering taste, control, or understanding. Current models often replace strong invariants with defensive fallbacks, duplicate code, poor abstractions, and local patches that make bad states—and machine-dependent maintenance—more likely. Human oversight must preserve coherent design, a high bar, and understanding of what I ship.
   <!-- opinion-id: opinion-000054 -->
-  <!-- sources: rw:01kwakxpb46n3ypb93saym2cgt, rw:01kwam66dc9x2bx4wkk6samcj0 -->
+  <!-- sources: rw:01kwakxpb46n3ypb93saym2cgt, rw:01kwam66dc9x2bx4wkk6samcj0, reader-summary:01m25sn8bp1rajaah0c9cvhve2 -->
 
 - SlopCodeBench is a useful signal that today's models cannot reliably perform real-shaped, issue-by-issue software engineering without human steering. Success on isolated coding tasks should not be mistaken for the ability to run production development lights-off.
   <!-- opinion-id: opinion-000065 -->
@@ -93,6 +93,14 @@
 - Do not turn a greenfield project into an autonomous software factory immediately. First pair with a coding agent to build the initial 3–10k lines and first few end-to-end features, establishing patterns, contracts, scaffolding, and a legible direction. Automating before those foundations exist tends to create code bloat and make the system harder to understand.
   <!-- opinion-id: opinion-000048 -->
   <!-- sources: rw:01kv6nc8acw97aymnfmxr2e9fs -->
+
+- Use broad agents to explore open-ended problems, but once a repeatable solution path is understood, encode it as a narrow, controlled system. Making an agent rediscover the same path on every run repeatedly pays for exploration while reintroducing variance; bounded stages, explicit contracts, and deterministic checks make production workflows cheaper, safer, and easier to evaluate.
+  <!-- opinion-id: opinion-000083 -->
+  <!-- sources: rw:01m2vcsjj1304gf98p55e1h27p, rw:01m2vcsp33zckv1ksexe765bq8 -->
+
+- Treat prompts as product code rather than endlessly appending instructions without removing or reconciling old ones, which creates contradictions and confusion. Structure them into non-overlapping, collectively complete concerns and refactor as behavior evolves. Higher model intelligence cannot resolve ambiguous or contradictory preferences; humans must specify the intended experience. Clear modular prompts reduce regressions and isolate changes.
+  <!-- opinion-id: opinion-000084 -->
+  <!-- sources: rw:01m2vdhcmmcw52jatmsgf3rg8a, rw:01m2vdjk342mgs1f4z6wz94xrg, rw:01m2vdrmmct4xsqw0xxac0v3f7, rw:01m2vmgsbh399d14m2dxjr4pbz -->
 
 ## AI And Learning
 
@@ -126,7 +134,7 @@
 
 - Forward-deployed engineers are valuable in new categories when field pain becomes input to a scalable product. Each deployment should make the next easier by turning bespoke discoveries into product primitives, so FDE involvement diminishes as the product matures. If engineers merely absorb recurring pain, the company has let a discovery mechanism harden into a services business.
   <!-- opinion-id: opinion-000071 -->
-  <!-- sources: rw:01m08bkw2hdez9q1xwzb2bsqvm, rw:01m08bpjwd4zq0ajzdvv0hcqct, rw:01m08bzzr6vm7xexetjt9e4bn9 -->
+  <!-- sources: rw:01m08bkw2hdez9q1xwzb2bsqvm, rw:01m08bpjwd4zq0ajzdvv0hcqct, rw:01m08bzzr6vm7xexetjt9e4bn9, rw:01m2vnk5ftm0yqwha56ebn5bew -->
 
 ## AI And The Economy
 
@@ -168,7 +176,7 @@
 
 - Enterprise AI deployment should start by mapping and documenting how work actually happens end to end, including exceptions; resolving conflicting judgment rules; translating tribal knowledge into explicit decision logic; and identifying workflows where agents offer enough value to justify deployment. Do not automate an ambiguous or dysfunctional process before doing this, because an agent will fill gaps with assumptions and scale the dysfunction. Evaluate deployed agents at the same intermediate checkpoints humans use.
   <!-- opinion-id: opinion-000034 -->
-  <!-- sources: rw:01kskr0rbgy1rkw3y1gq9jw55g, rw:01kskdka8pn546x269sscxrjbs, rw:01kskdxwnen4fmrjggtkznerh8, rw:01m08gtqyp8b8127rkqsdcnaxc, rw:01m08gy822s9eydvhtxjda0dps, rw:01m08hakwrqq1zh08n63z7nzz2 -->
+  <!-- sources: rw:01kskr0rbgy1rkw3y1gq9jw55g, rw:01kskdka8pn546x269sscxrjbs, rw:01kskdxwnen4fmrjggtkznerh8, rw:01m08gtqyp8b8127rkqsdcnaxc, rw:01m08gy822s9eydvhtxjda0dps, rw:01m08hakwrqq1zh08n63z7nzz2, reader-summary:01m1qw0m6nc1f1jqh79vbwsxhp -->
 
 - Background agents can create far more enterprise value than prompted sidekicks because they remove recurring work rather than merely accelerate it: the cited workflows report roughly 60–90% efficiency gains versus 10–20%. They should run autonomously and bring humans in for exceptions and judgment, but only after the workflow—including exceptions—is documented; otherwise automation scales existing dysfunction.
   <!-- opinion-id: opinion-000072 -->
@@ -218,7 +226,7 @@
 
 - Anything measurable can be trained against and is therefore on its way to commodity; durable AI application value shifts toward frontier work whose correctness depends on private data, trust, permission, and accountability. The moat is the continuing translation between model, workflow, and firm—built through deep integration, domain expertise, maintenance, and the authority to define and verify what good means.
   <!-- opinion-id: opinion-000045 -->
-  <!-- sources: rw:01ktzm222bgxfw5cfbpdapyaet, rw:01kvpbkw1cdcwhbb15jakh3ae8, rw:01kvpbn4zp1z1vt0ea3rsh17ts, rw:01kvpbpwwcmq0zvx5f03qm5pp9 -->
+  <!-- sources: rw:01ktzm222bgxfw5cfbpdapyaet, rw:01kvpbkw1cdcwhbb15jakh3ae8, rw:01kvpbn4zp1z1vt0ea3rsh17ts, rw:01kvpbpwwcmq0zvx5f03qm5pp9, rw:01m2pdtgk1d25qshkes8bp7ywz -->
 
 - A competitive frontier-model market preserves room for valuable application companies: customers want supplier choice, while labs generally gain more from broad model adoption than from killing any single downstream product. Model suppliers are therefore less likely to capture the whole application layer when several credible labs remain in contention.
   <!-- opinion-id: opinion-000051 -->
@@ -247,6 +255,10 @@
 - Abundant model intelligence will not eliminate the application layer. Labs are pulled toward general-purpose, enormous markets, while customers pay for companies that integrate intelligence into specific institutions and turn tokens into accountable real-world outcomes. As capabilities mature, these companies should price against customer outcomes already forecast or targeted; early builders can own those economics. The durable opportunity is not defending scarce model access but making abundant intelligence economically useful.
   <!-- opinion-id: opinion-000075 -->
   <!-- sources: rw:01m0xg7d0hw0ec2dxfxmkbk755, rw:01m0xgy5g53n5gvk93exbt5cey -->
+
+- Outcome-based pricing is strongest when a product can prove the work it performed and owns a credible definition of success. It aligns revenue with delivered value and turns demonstrated outcomes into both a unit-economic advantage and evidence of product defensibility.
+  <!-- opinion-id: opinion-000081 -->
+  <!-- sources: rw:01m2pewzy3adqprcem562c8j1q -->
 
 ## Feedback And Craft
 
@@ -287,6 +299,10 @@
 - Taste is not an objective hierarchy; it is the judgment required to understand a landscape of possibilities and choose what fits a particular vision and audience. Critical, commercial, and personal taste are different objectives, not ranks of legitimacy. Strong creative work therefore balances audience resonance with the creator's own preferences: over-index on either and the result becomes generic or relevant only to its maker.
   <!-- opinion-id: opinion-000077 -->
   <!-- sources: rw:01m1cvbrmr33v8mdtajn7e3fw9, rw:01m1cvcz4xe01thr197xw98wtd, rw:01m1cvgah4ksf0qzmr22b7cgk8, rw:01m1cvggys65sg2qntzdxaqgyw, rw:01m1cvt2xyja89z2jfb72xq0y6 -->
+
+- As AI makes products easier to imitate and more superficially similar, specialized product taste becomes more defensible. Taste comes from deep understanding of a particular user's work and compounds across many small choices in the UX, model, defaults, and interaction; individual pieces can be copied more easily than the coherent whole.
+  <!-- opinion-id: opinion-000082 -->
+  <!-- sources: rw:01m2pf1kx0qpasppz34wvdcsbw, rw:01m2pf22jky6mpchx8batnzbay -->
 
 ## Career And Work
 
