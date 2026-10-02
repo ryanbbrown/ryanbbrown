@@ -102,6 +102,10 @@
   <!-- opinion-id: opinion-000084 -->
   <!-- sources: rw:01m2vdhcmmcw52jatmsgf3rg8a, rw:01m2vdjk342mgs1f4z6wz94xrg, rw:01m2vdrmmct4xsqw0xxac0v3f7, rw:01m2vmgsbh399d14m2dxjr4pbz -->
 
+- Agent architectures should not spend a general-purpose LLM call on every decision. Jev-style models are faster and cheaper because they make structured, calibrated decisions without generating text, so they should handle bounded classification and control while LLMs handle open-ended reasoning. Straightforward integration with agent tooling such as LangChain makes this specialization practical.
+  <!-- opinion-id: opinion-000085 -->
+  <!-- sources: reader-summary:01m2y3ekac116najtzpfgad9ga -->
+
 ## AI And Learning
 
 - AI makes volition more important, not less. The people who benefit most will actively wrestle with it to strengthen their own capabilities and accomplish more, rather than using it merely to avoid effort. Education should therefore prioritize the desire to work hard, learn, and put abundant machine knowledge to creative use.
@@ -304,6 +308,10 @@
   <!-- opinion-id: opinion-000082 -->
   <!-- sources: rw:01m2pf1kx0qpasppz34wvdcsbw, rw:01m2pf22jky6mpchx8batnzbay -->
 
+- Anything AI can produce in one shot quickly becomes slop: because millions can make equivalent outputs, audiences read it as low-effort, interchangeable, and low-value. Fully automated creative or software factories therefore have a weak durable advantage; the better use of AI is to amplify distinctive human judgment and craftsmanship rather than replace them.
+  <!-- opinion-id: opinion-000086 -->
+  <!-- sources: rw:01m3cd7gx0drneeegnx36h99bq -->
+
 ## Career And Work
 
 - A corporate job does not need to be personally meaningful if it is useful: building skills, funding independent projects, or buying time for higher-conviction work.
@@ -357,6 +365,10 @@
 - Rejection tolerance is a trainable component of agency. Especially early in a career, deliberately pursuing opportunities likely to say no helps decouple rejection from surprise and dejection, making ambition less constrained by fear of the outcome.
   <!-- opinion-id: opinion-000061 -->
   <!-- sources: rw:01kx9zx45d7vwgw0cc30m1hqz7 -->
+
+- Publishing useful, personal thinking online—and engaging with the people it reaches—builds portable career capital. Even a small audience of the right people can create trust, access, and opportunities, while the reputation and network can survive job or industry changes that reset internal status. Its value compounds quietly and with delayed feedback, so low follower counts or limited early response are poor reasons not to persist.
+  <!-- opinion-id: opinion-000087 -->
+  <!-- sources: rw:01m3j21cxae4h3y8x024yftgyr, rw:01m3j24e4cp4c24qqep1snnbnn -->
 
 ## Meaning And Community
 
