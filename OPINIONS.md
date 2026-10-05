@@ -10,6 +10,10 @@
   <!-- opinion-id: opinion-000002 -->
   <!-- sources: rw:01km6w5j2etpssfcbyjk75spx5, rw:01km6w6qb90sfan8c6dnfgrsx3 -->
 
+- Agentic coding makes most application changes cheap and reversible, but it must not tempt us to take one-way data decisions at two-way-door speed. Interfaces and features can be redeployed; lost user data cannot be reconstructed. Treat storage, migrations, backups, recovery, privacy, and retention as deliberate plans for every existing row—including verification and rollback—not as mere code-generation tasks.
+  <!-- opinion-id: opinion-000088 -->
+  <!-- sources: rw:01m41mtnj3m3evbyrmwjvkaam7, rw:01m43wrpch6zg5wbzkftyey0j6, rw:01m43wrsn7f0drap5mb7he7g59, rw:01m43ws6j0etm50k2bwxjnhdc4 -->
+
 - As AI commoditizes implementation, high-quality intent becomes the scarce skill: having ideas worth pursuing, articulating what good looks like, and judging whether an agent's output is actually good.
   <!-- opinion-id: opinion-000003 -->
   <!-- sources: rw:01kkvb1sj4r2fnjczr3zdwyq9m, rw:01kp1xajs4em2bhwcs3rz0j2wq -->
@@ -196,7 +200,7 @@
 
 - AI can make an individual faster while making the organization slower when unedited output transfers verification, compression, and understanding to many downstream readers. Generated work is not finished until its author has checked it, cut it to what matters, and can defend every claim; otherwise local productivity is merely displaced cognitive cost.
   <!-- opinion-id: opinion-000049 -->
-  <!-- sources: reader-summary:01kvehk4xt999exskypaf1a59y -->
+  <!-- sources: reader-summary:01kvehk4xt999exskypaf1a59y, rw:01m3m4e4fjjgpy862bg660c085, rw:01m3m4ekjmncbme1k6gzpzs7d1, rw:01m3m4gbg60wgkqx6mn4te6znj, rw:01m3m4gpf0tr2q7ez6ke33qf5s, rw:01m3m4hvbrwhkydwcymkhm4qc7, reader-summary:01m3prsd2nkbgen5dpgdjt0br5 -->
 
 ## Moats And Strategy
 
