@@ -140,9 +140,9 @@
 
 ## Product Strategy
 
-- Forward-deployed engineers are valuable in new categories when field pain becomes input to a scalable product. Each deployment should make the next easier by turning bespoke discoveries into product primitives, so FDE involvement diminishes as the product matures. If engineers merely absorb recurring pain, the company has let a discovery mechanism harden into a services business.
+- Forward-deployed engineers are valuable in new categories when field pain becomes input to a scalable product. Because every shipped shortcut creates an ownership burden, each field fix should either be generalized into a platform primitive that makes future deployments easier or deliberately discarded after serving its purpose rather than maintained as bespoke product behavior. FDE involvement should diminish as the product matures; if engineers merely absorb recurring pain through permanent custom fixes, the discovery mechanism has hardened into a services business.
   <!-- opinion-id: opinion-000071 -->
-  <!-- sources: rw:01m08bkw2hdez9q1xwzb2bsqvm, rw:01m08bpjwd4zq0ajzdvv0hcqct, rw:01m08bzzr6vm7xexetjt9e4bn9, rw:01m2vnk5ftm0yqwha56ebn5bew -->
+  <!-- sources: rw:01m08bkw2hdez9q1xwzb2bsqvm, rw:01m08bpjwd4zq0ajzdvv0hcqct, rw:01m08bzzr6vm7xexetjt9e4bn9, rw:01m2vnk5ftm0yqwha56ebn5bew, rw:01m48rzd99c3x3kes2xqdasppe -->
 
 ## AI And The Economy
 
@@ -334,9 +334,9 @@
   <!-- opinion-id: opinion-000020 -->
   <!-- sources: rw:01kp4ymck943np90xtvj52v2fh -->
 
-- Engineering interviews in an AI-native world should test how candidates scope, build, review, and reason with AI tools on representative product work instead of testing code mechanics without assistance.
+- Engineering interviews in an AI-native world should use representative product work and AI tools to assess the parts of engineering that remain scarce as implementation becomes automated: framing and scoping the problem, making sound architectural judgments, reviewing and reasoning about the work, and persisting through last-mile problems until it reaches real users. Rather than over-indexing on long coding tasks or broad architecture questions, interviews should test how quickly candidates understand unfamiliar code and how clearly they explain the tradeoffs and problem-solving behind past work.
   <!-- opinion-id: opinion-000023 -->
-  <!-- sources: reader-summary:01kpxgvdm8h04w0k41wv4nrjgb -->
+  <!-- sources: reader-summary:01kpxgvdm8h04w0k41wv4nrjgb, rw:01m4evwxwv57qz4vxpbzb6tcbb, rw:01m4evx3natayt8hsz0snw9tyv -->
 
 - Passive productivity like reading and podcasts is helpful, but it has diminishing returns; active productivity scales better because its returns compound the more time you spend creating.
   <!-- opinion-id: opinion-000027 -->
