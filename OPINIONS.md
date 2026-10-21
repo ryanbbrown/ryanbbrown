@@ -2,6 +2,10 @@
 
 ## Agentic Software
 
+- AI agents will compress software-building skill: explicit knowledge of languages and tools will matter less as intuition fills implementation gaps. As with phone cameras, the craft shifts from operating specialized equipment to using accessible capabilities creatively, enabling people who have never written code to build remarkable software.
+  <!-- opinion-id: opinion-000089 -->
+  <!-- sources: rw:01m50whmmq6rwbcgqr4g540f4z, rw:01m50wj0j4s2q2zbxf01wxg3zb -->
+
 - As AI generates more implementation, humans should own and review the spec, acceptance criteria, and verification contract rather than every line of code.
   <!-- opinion-id: opinion-000001 -->
   <!-- sources: rw:01kkvnzbr8p6g2vtr1wnxdf5g0, rw:01kkt3pncjjjsrs8dv3pa3g4tk, rw:01kkt4ee5w23y80yqwmy77xpr0 -->
@@ -222,7 +226,7 @@
 
 - In agent products, durable advantage should come from company-specific domain reasoning and business logic; the common stack underneath should increasingly be platform primitives rather than bespoke plumbing.
   <!-- opinion-id: opinion-000022 -->
-  <!-- sources: rw:01kps6pym55wbe9p3jhk8mpd4x -->
+  <!-- sources: rw:01kps6pym55wbe9p3jhk8mpd4x, rw:01m544e9zbx8e5dkkkxb2vdpz6 -->
 
 - AI commoditizes knowledge that can be specified or copied, while operational scar tissue compounds in coupled, changing systems because each real-world surprise changes both the system and how future surprises should be interpreted. This moat disappears when the underlying system is replaced.
   <!-- opinion-id: opinion-000029 -->
@@ -276,6 +280,10 @@
 
 ## Taste, Craft, And Signal
 
+- Access to frontier models and enormous token budgets does not guarantee a good product because implementation capacity is no longer the only bottleneck. Taste—the ability to make good choices where no programmatic verifier exists—is. Current models optimize verifiable work but regress toward functional, average choices at ambiguous product and design forks. This explains why even a frontier lab such as OpenAI can have exceptional technical resources without consistently producing exceptional products.
+  <!-- opinion-id: opinion-000091 -->
+  <!-- sources: rw:01m5358dst9rs50e9g9czr7na1, rw:01m543r03rtpq4165rpxs169yh, rw:01m543rwq8j38xrpbdbk5a0py9 -->
+
 - Taste matters more when implementation gets cheaper, because the constraint shifts from "can this be built?" to "is this coherent, polished, and worth caring about?"
   <!-- opinion-id: opinion-000010 -->
   <!-- sources: rw:01kkt3bjqsny5edfmcbeertgxn, rw:01km6d48j613hq0c9n141x2d8s, rw:01km6d525k20c4d0wd7cnbys5e, rw:01knczdnkbndmvcm7v6qfcxyhp -->
@@ -317,6 +325,10 @@
   <!-- sources: rw:01m3cd7gx0drneeegnx36h99bq -->
 
 ## Career And Work
+
+- Curiosity, agency, and drive are buildable habits that help people stand out at work, especially in startups. Curiosity exposes questions, agency turns them into self-directed action, and drive sustains the work without oversight. They compound fastest when motivated by a genuine desire to understand the whole system rather than merely perform an assigned corner of it.
+  <!-- opinion-id: opinion-000090 -->
+  <!-- sources: rw:01m55kdpgwk7wxf3r046q5dsq2, rw:01m55ken91kf80k44xxmnx5v00 -->
 
 - A corporate job does not need to be personally meaningful if it is useful: building skills, funding independent projects, or buying time for higher-conviction work.
   <!-- opinion-id: opinion-000012 -->
